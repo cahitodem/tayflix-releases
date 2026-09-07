@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.47",
-    "name":  "Tayflix v5.0.47",
+    "version":  "5.0.48",
+    "name":  "Tayflix v5.0.48",
     "releaseDate":  "2026-09-07",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.47/TayflixSetup-v5.0.47_x64.exe",
-    "filename":  "TayflixSetup-v5.0.47_x64.exe",
-    "checksum":  "0c8c64a108a562a45ef79a1b0c72bb831bdadd3aa629b6fde823c27bdf3801ad",
-    "notes":  "* fix(updater): launch installer via WMI to detach from Windows Job Object, gate isReady by isNewer, and add install-update Rust IPC\n* chore: bump stremio-shell-ng version to 5.0.46\n* chore(release): bump version to v5.0.46\n* fix(release): add UTF-8 BOM to release.ps1 for PowerShell 5.1 compatibility\n* docs: update Dizipal Eklentisi Plan title to include \u0027lama\u0027"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.48/TayflixSetup-v5.0.48_x64.exe",
+    "filename":  "TayflixSetup-v5.0.48_x64.exe",
+    "checksum":  "c1566d233dba19c0f99338532b6a704aa47684b9b32586885dc54054a77b5104",
+    "notes":  "* style(updater): update UpdateModal theme with Tayflix red accents and dark background\n* chore: bump stremio-shell-ng version to 5.0.47\n* chore(release): bump version to v5.0.47\n* fix(updater): launch installer via WMI to detach from Windows Job Object, gate isReady by isNewer, and add install-update Rust IPC\n* chore: bump stremio-shell-ng version to 5.0.46"
 }
