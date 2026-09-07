@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.0.41",
-    "name":  "Tayflix v5.0.41",
+    "version":  "5.0.42",
+    "name":  "Tayflix v5.0.42",
     "releaseDate":  "2026-09-07",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.41/TayflixSetup-v5.0.41_x64.exe",
-    "filename":  "TayflixSetup-v5.0.41_x64.exe",
-    "checksum":  "631d2973006492af10f3320d38a00ffee61fc877aafda3cf17eabf43ad4e8477",
-    "notes":  "* fix(release): fix package version regex, curl upload handling, and script encoding\n* Update version to 5.0.40 in Cargo.toml, Cargo.lock, and package.json; enhance error handling and playlist management in addons\n* Add automated patch versioning and release script instructions to terminal.md\n* Update .gitignore to include iptv-hesap.txt; remove Product Requirements Document (PRD)\n* Enhance auto-update functionality; improve update check logic, version handling, and notifications; update versioning in Cargo.toml and package.json; add release script for automated versioning and GitHub releases."
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.42/TayflixSetup-v5.0.42_x64.exe",
+    "filename":  "TayflixSetup-v5.0.42_x64.exe",
+    "checksum":  "cd9328bb490f0d18659c35824673eb97f729b9d68e6075135f5a29aaca02b7f0",
+    "notes":  "* fix(hls-proxy): provide Content-Length and Range support for HLS playlist responses to prevent ffmpeg reconnect and track drops\n* chore(release): bump version to v5.0.41 in Cargo.lock, Cargo.toml, and package.json\n* chore(release): bump version to v5.0.41\n* fix(release): fix package version regex, curl upload handling, and script encoding\n* Update version to 5.0.40 in Cargo.toml, Cargo.lock, and package.json; enhance error handling and playlist management in addons"
 }
