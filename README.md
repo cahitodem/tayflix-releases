@@ -1,4 +1,4 @@
-﻿# Tayflix Releases
+# Tayflix Releases
 
 Tayflix Masaüstü Uygulaması Resmi Kurulum ve Otomatik Güncelleme Dosyaları Deposu.
 
@@ -10,7 +10,7 @@ Bu depoda yalnızca uygulamanın derlenmiş resmi Windows kurulum dosyaları (.e
 
 | Platform | Dosya | Sürüm | İndirme |
 | :--- | :--- | :--- | :--- |
-| **Windows x64** | TayflixSetup-v5.0.45_x64.exe | **v5.0.45** | [📥 Doğrudan İndir](https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.45/TayflixSetup-v5.0.45_x64.exe) |
+| **Windows x64** | TayflixSetup-v5.0.46_x64.exe | **v5.0.46** | [📥 Doğrudan İndir](https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.46/TayflixSetup-v5.0.46_x64.exe) |
 
 Tüm geçmiş sürümler için [Releases](https://github.com/cahitodem/tayflix-releases/releases) sekmesini ziyaret edebilirsiniz.
 
