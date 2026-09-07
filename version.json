@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.46",
-    "name":  "Tayflix v5.0.46",
+    "version":  "5.0.47",
+    "name":  "Tayflix v5.0.47",
     "releaseDate":  "2026-09-07",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.46/TayflixSetup-v5.0.46_x64.exe",
-    "filename":  "TayflixSetup-v5.0.46_x64.exe",
-    "checksum":  "685d7dae33d178f4501d1d087ceb71c26f9b495001a37837db8a97ae498da642",
-    "notes":  "* fix(release): add UTF-8 BOM to release.ps1 for PowerShell 5.1 compatibility\n* docs: update Dizipal Eklentisi Plan title to include \u0027lama\u0027\n* fix(updater): resolve UTF-8 BOM parsing, add direct GitHub fallback, fix http_server syntax and banner z-index\n* docs: add Dizipal Eklentisi Plan link to terminal.md\n* chore(release): bump stremio-shell-ng version to 5.0.45"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.47/TayflixSetup-v5.0.47_x64.exe",
+    "filename":  "TayflixSetup-v5.0.47_x64.exe",
+    "checksum":  "0c8c64a108a562a45ef79a1b0c72bb831bdadd3aa629b6fde823c27bdf3801ad",
+    "notes":  "* fix(updater): launch installer via WMI to detach from Windows Job Object, gate isReady by isNewer, and add install-update Rust IPC\n* chore: bump stremio-shell-ng version to 5.0.46\n* chore(release): bump version to v5.0.46\n* fix(release): add UTF-8 BOM to release.ps1 for PowerShell 5.1 compatibility\n* docs: update Dizipal Eklentisi Plan title to include \u0027lama\u0027"
 }
