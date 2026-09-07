@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.0.43",
-    "name":  "Tayflix v5.0.43",
+    "version":  "5.0.44",
+    "name":  "Tayflix v5.0.44",
     "releaseDate":  "2026-09-07",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.43/TayflixSetup-v5.0.43_x64.exe",
-    "filename":  "TayflixSetup-v5.0.43_x64.exe",
-    "checksum":  "6476a31a483dd8a88106b7cc4962ba4c6d314e774f4f476a059700cdbd0bc50b",
-    "notes":  "* feat: enhance title formatting for video cards and stream descriptions\n* chore(release): bump stremio-shell-ng version to 5.0.42\n* chore(release): bump version to v5.0.42\n* fix(hls-proxy): provide Content-Length and Range support for HLS playlist responses to prevent ffmpeg reconnect and track drops\n* chore(release): bump version to v5.0.41 in Cargo.lock, Cargo.toml, and package.json"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.44/TayflixSetup-v5.0.44_x64.exe",
+    "filename":  "TayflixSetup-v5.0.44_x64.exe",
+    "checksum":  "b15b5f60c1a88eeb982d296caf3f418fdba09a6b4e231000f426f09d99129d10",
+    "notes":  "* feat: hide Live TV menu when IPTV is not configured; fix updater.rs compilation errors\n* chore(release): bump version to v5.0.44\n* feat: implement updater functionality with API endpoints for checking, downloading, and installing updates feat: add UpdateModal component for user interaction during updates style: enhance UpdaterBanner with modal integration and improved user experience fix: adjust timeout settings for update checks in Rust updater\n* chore(release): bump stremio-shell-ng version to 5.0.43\n* chore(release): bump version to v5.0.43"
 }
