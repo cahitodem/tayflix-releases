@@ -1,9 +1,9 @@
 ﻿{
-  "version": "5.0.39",
-  "name": "Tayflix v5.0.39",
-  "releaseDate": "2026-09-07",
-  "url": "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.39/TayflixSetup-v5.0.39_x64.exe",
-  "filename": "TayflixSetup-v5.0.39_x64.exe",
-  "checksum": "96a862d470587e97f9473c0dab1935a52f5e1564b74ed47cb2a3c26fa7994853",
-  "notes": "IPTV Canli TV takilma ve 29s kapanma duzeltmeleri, tum eklentilerde performans optimizasyonlari, otomatik arka plan ve Ayarlar uzerinden guncelleme motoru."
+    "version":  "5.0.40",
+    "name":  "Tayflix v5.0.40",
+    "releaseDate":  "2026-09-07",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.40/TayflixSetup-v5.0.40_x64.exe",
+    "filename":  "TayflixSetup-v5.0.40_x64.exe",
+    "checksum":  "c5c144adf4b3616d574c1a99dac8a0e41883a8c7c351019e398e3f4507363bd1",
+    "notes":  "* Update version to 5.0.40 in Cargo.toml, Cargo.lock, and package.json; enhance error handling and playlist management in addons\n* Add automated patch versioning and release script instructions to terminal.md\n* Update .gitignore to include iptv-hesap.txt; remove Product Requirements Document (PRD)\n* Enhance auto-update functionality; improve update check logic, version handling, and notifications; update versioning in Cargo.toml and package.json; add release script for automated versioning and GitHub releases.\n* Enhance performance and stability across multiple addons"
 }
