@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.0.44",
-    "name":  "Tayflix v5.0.44",
+    "version":  "5.0.45",
+    "name":  "Tayflix v5.0.45",
     "releaseDate":  "2026-09-07",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.44/TayflixSetup-v5.0.44_x64.exe",
-    "filename":  "TayflixSetup-v5.0.44_x64.exe",
-    "checksum":  "b15b5f60c1a88eeb982d296caf3f418fdba09a6b4e231000f426f09d99129d10",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.45/TayflixSetup-v5.0.45_x64.exe",
+    "filename":  "TayflixSetup-v5.0.45_x64.exe",
+    "checksum":  "b2103b3ed8f7094bc7758f17805958f4cf9e3ac936869668eaad328f959db169",
     "notes":  "* feat: hide Live TV menu when IPTV is not configured; fix updater.rs compilation errors\n* chore(release): bump version to v5.0.44\n* feat: implement updater functionality with API endpoints for checking, downloading, and installing updates feat: add UpdateModal component for user interaction during updates style: enhance UpdaterBanner with modal integration and improved user experience fix: adjust timeout settings for update checks in Rust updater\n* chore(release): bump stremio-shell-ng version to 5.0.43\n* chore(release): bump version to v5.0.43"
 }
