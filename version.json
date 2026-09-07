@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.48",
-    "name":  "Tayflix v5.0.48",
+    "version":  "5.0.49",
+    "name":  "Tayflix v5.0.49",
     "releaseDate":  "2026-09-07",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.48/TayflixSetup-v5.0.48_x64.exe",
-    "filename":  "TayflixSetup-v5.0.48_x64.exe",
-    "checksum":  "c1566d233dba19c0f99338532b6a704aa47684b9b32586885dc54054a77b5104",
-    "notes":  "* style(updater): update UpdateModal theme with Tayflix red accents and dark background\n* chore: bump stremio-shell-ng version to 5.0.47\n* chore(release): bump version to v5.0.47\n* fix(updater): launch installer via WMI to detach from Windows Job Object, gate isReady by isNewer, and add install-update Rust IPC\n* chore: bump stremio-shell-ng version to 5.0.46"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.49/TayflixSetup-v5.0.49_x64.exe",
+    "filename":  "TayflixSetup-v5.0.49_x64.exe",
+    "checksum":  "97b747a97a60229caac9a925e75d59b1a77477b9e64c3e92bb1500f1125fac9f",
+    "notes":  "* chore: bump stremio-shell-ng version to 5.0.48\n* chore(release): bump version to v5.0.48\n* style(updater): update UpdateModal theme with Tayflix red accents and dark background\n* chore: bump stremio-shell-ng version to 5.0.47\n* chore(release): bump version to v5.0.47"
 }
