@@ -4,6 +4,6 @@
   "releaseDate": "2026-09-07",
   "url": "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.39/TayflixSetup-v5.0.39_x64.exe",
   "filename": "TayflixSetup-v5.0.39_x64.exe",
-  "checksum": "70be3b74f92291e0059f604f3c2945dff5cc7e3c7006f036db0608888c2e4ac7",
-  "notes": "IPTV Canli TV takilma ve 29s kapanma duzeltmeleri, tum eklentilerde kapsamli performans ve ag optimizasyonlari."
+  "checksum": "96a862d470587e97f9473c0dab1935a52f5e1564b74ed47cb2a3c26fa7994853",
+  "notes": "IPTV Canli TV takilma ve 29s kapanma duzeltmeleri, tum eklentilerde performans optimizasyonlari, otomatik arka plan ve Ayarlar uzerinden guncelleme motoru."
 }
