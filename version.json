@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.49",
-    "name":  "Tayflix v5.0.49",
+    "version":  "5.0.50",
+    "name":  "Tayflix v5.0.50",
     "releaseDate":  "2026-09-07",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.49/TayflixSetup-v5.0.49_x64.exe",
-    "filename":  "TayflixSetup-v5.0.49_x64.exe",
-    "checksum":  "97b747a97a60229caac9a925e75d59b1a77477b9e64c3e92bb1500f1125fac9f",
-    "notes":  "* chore: bump stremio-shell-ng version to 5.0.48\n* chore(release): bump version to v5.0.48\n* style(updater): update UpdateModal theme with Tayflix red accents and dark background\n* chore: bump stremio-shell-ng version to 5.0.47\n* chore(release): bump version to v5.0.47"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.50/TayflixSetup-v5.0.50_x64.exe",
+    "filename":  "TayflixSetup-v5.0.50_x64.exe",
+    "checksum":  "cbbcdab32767b0016192d56c2b0b1654fc6c93aa47647831b213ae8d8a5bf4be",
+    "notes":  "* fix(updater): resolve linter, type, and css issues in UpdateModal and UpdaterBanner\n* fix(theme): eliminate background flickering, transparent leaks and white flashes across web and shell\n* chore: bump stremio-shell-ng version to 5.0.49\n* chore(release): bump version to v5.0.49\n* chore: bump stremio-shell-ng version to 5.0.48"
 }
