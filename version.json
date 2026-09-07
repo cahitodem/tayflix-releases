@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.0.42",
-    "name":  "Tayflix v5.0.42",
+    "version":  "5.0.43",
+    "name":  "Tayflix v5.0.43",
     "releaseDate":  "2026-09-07",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.42/TayflixSetup-v5.0.42_x64.exe",
-    "filename":  "TayflixSetup-v5.0.42_x64.exe",
-    "checksum":  "cd9328bb490f0d18659c35824673eb97f729b9d68e6075135f5a29aaca02b7f0",
-    "notes":  "* fix(hls-proxy): provide Content-Length and Range support for HLS playlist responses to prevent ffmpeg reconnect and track drops\n* chore(release): bump version to v5.0.41 in Cargo.lock, Cargo.toml, and package.json\n* chore(release): bump version to v5.0.41\n* fix(release): fix package version regex, curl upload handling, and script encoding\n* Update version to 5.0.40 in Cargo.toml, Cargo.lock, and package.json; enhance error handling and playlist management in addons"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.43/TayflixSetup-v5.0.43_x64.exe",
+    "filename":  "TayflixSetup-v5.0.43_x64.exe",
+    "checksum":  "6476a31a483dd8a88106b7cc4962ba4c6d314e774f4f476a059700cdbd0bc50b",
+    "notes":  "* feat: enhance title formatting for video cards and stream descriptions\n* chore(release): bump stremio-shell-ng version to 5.0.42\n* chore(release): bump version to v5.0.42\n* fix(hls-proxy): provide Content-Length and Range support for HLS playlist responses to prevent ffmpeg reconnect and track drops\n* chore(release): bump version to v5.0.41 in Cargo.lock, Cargo.toml, and package.json"
 }
