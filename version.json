@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.55",
-    "name":  "Tayflix v5.0.55",
+    "version":  "5.0.56",
+    "name":  "Tayflix v5.0.56",
     "releaseDate":  "2026-09-12",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.55/TayflixSetup-v5.0.55_x64.exe",
-    "filename":  "TayflixSetup-v5.0.55_x64.exe",
-    "checksum":  "e686167e084d8a4450e20724199c1c22821219e96552f22023840569e26badb7",
-    "notes":  "* chore: bump stremio-shell-ng version to 5.0.54\n* chore(release): bump version to v5.0.54\n* VIDEO Player\n* chore: bump stremio-shell-ng version to 5.0.52\n* chore(release): bump version to v5.0.52"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.56/TayflixSetup-v5.0.56_x64.exe",
+    "filename":  "TayflixSetup-v5.0.56_x64.exe",
+    "checksum":  "bf0745fa92855fe05703df5b9dbfe5f3a7491c82f4935f19993b80ecde3e81c0",
+    "notes":  "* fix: update release script comment for clarity\n* feat: add stream URL resolution with redirect handling\n* chore: bump stremio-shell-ng version to 5.0.55\n* chore(release): bump version to v5.0.55\n* chore: bump stremio-shell-ng version to 5.0.54"
 }
