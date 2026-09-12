@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.52",
-    "name":  "Tayflix v5.0.52",
-    "releaseDate":  "2026-09-07",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.52/TayflixSetup-v5.0.52_x64.exe",
-    "filename":  "TayflixSetup-v5.0.52_x64.exe",
-    "checksum":  "937020ed415c87703528e1df7776e65c6262237d0adbb4fbc749ed7d7a006e12",
-    "notes":  "* chore: update Cargo.lock for v5.0.51\n* chore(release): bump version to v5.0.51\n* fix(player): resolve variable hoisting in ShellVideo causing playback crash\n* chore: bump stremio-shell-ng version to 5.0.50\n* chore(release): bump version to v5.0.50"
+    "version":  "5.0.54",
+    "name":  "Tayflix v5.0.54",
+    "releaseDate":  "2026-09-12",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.54/TayflixSetup-v5.0.54_x64.exe",
+    "filename":  "TayflixSetup-v5.0.54_x64.exe",
+    "checksum":  "101c14895d399c299b1b2af5df2b7adab979837146caa273580d7dc134255ed6",
+    "notes":  "* VIDEO Player\n* chore: bump stremio-shell-ng version to 5.0.52\n* chore(release): bump version to v5.0.52\n* chore: update Cargo.lock for v5.0.51\n* chore(release): bump version to v5.0.51"
 }
