@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.58",
-    "name":  "Tayflix v5.0.58",
+    "version":  "5.0.59",
+    "name":  "Tayflix v5.0.59",
     "releaseDate":  "2026-09-17",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.58/TayflixSetup-v5.0.58_x64.exe",
-    "filename":  "TayflixSetup-v5.0.58_x64.exe",
-    "checksum":  "9dd1ebc57e260feaf5dac28669553e922e8ba6d1e970564083428fecf75ba30b",
-    "notes":  "* feat: update Seflix addon version to 1.0.1 and enhance genre options\n* feat: add Seflix Stremio addon with streaming proxy for HLS and subtitles\n* chore(release): bump version to v5.0.57\n* feat: implement video stream proxy and enhance stream description formatting\n* chore(release): bump version to v5.0.56"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.59/TayflixSetup-v5.0.59_x64.exe",
+    "filename":  "TayflixSetup-v5.0.59_x64.exe",
+    "checksum":  "c815edaf28529eb4439b5a39e91cbc1ae4fa2f1500d1d5591a1f14d15cd3db3a",
+    "notes":  "* fix(addons): resolve audio stream demux playback and multi-track selection for seflix and filmmakinesi\n* chore(release): bump version to v5.0.58\n* feat: update Seflix addon version to 1.0.1 and enhance genre options\n* feat: add Seflix Stremio addon with streaming proxy for HLS and subtitles\n* chore(release): bump version to v5.0.57"
 }
