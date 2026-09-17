@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.57",
-    "name":  "Tayflix v5.0.57",
-    "releaseDate":  "2026-09-12",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.57/TayflixSetup-v5.0.57_x64.exe",
-    "filename":  "TayflixSetup-v5.0.57_x64.exe",
-    "checksum":  "719cfe08bb560ce5554a67f392fe5c3c0da6cb7abb115f8c37b83909ffd3e07b",
-    "notes":  "* feat: implement video stream proxy and enhance stream description formatting\n* chore(release): bump version to v5.0.56\n* fix: update release script comment for clarity\n* feat: add stream URL resolution with redirect handling\n* chore: bump stremio-shell-ng version to 5.0.55"
+    "version":  "5.0.58",
+    "name":  "Tayflix v5.0.58",
+    "releaseDate":  "2026-09-17",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.58/TayflixSetup-v5.0.58_x64.exe",
+    "filename":  "TayflixSetup-v5.0.58_x64.exe",
+    "checksum":  "9dd1ebc57e260feaf5dac28669553e922e8ba6d1e970564083428fecf75ba30b",
+    "notes":  "* feat: update Seflix addon version to 1.0.1 and enhance genre options\n* feat: add Seflix Stremio addon with streaming proxy for HLS and subtitles\n* chore(release): bump version to v5.0.57\n* feat: implement video stream proxy and enhance stream description formatting\n* chore(release): bump version to v5.0.56"
 }
