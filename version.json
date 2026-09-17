@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.61",
-    "name":  "Tayflix v5.0.61",
+    "version":  "5.0.62",
+    "name":  "Tayflix v5.0.62",
     "releaseDate":  "2026-09-17",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.61/TayflixSetup-v5.0.61_x64.exe",
-    "filename":  "TayflixSetup-v5.0.61_x64.exe",
-    "checksum":  "7276073eebf206c48b8427c7d1565382848348f8f49f65255e2331f3af531959",
-    "notes":  "* fix(release): eliminate parser errors by using UTF-8 BOM, CRLF, and removing here-strings in release.ps1\n* chore(release): bump version to 5.0.60 and add test_mpv example\n* feat(release): replace curl with reliable Node.js streaming asset uploader\n* chore(release): bump version to v5.0.60\n* fix(release): resolve CRLF here-string and string interpolation parsing in release.ps1"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.62/TayflixSetup-v5.0.62_x64.exe",
+    "filename":  "TayflixSetup-v5.0.62_x64.exe",
+    "checksum":  "dcb585521b0474b7786e54387411dc20fba46363c68de444884e4d99819a4087",
+    "notes":  "* feat(release): integrate official GitHub CLI (gh) into release.ps1 with automatic fallback\n* perf(setup): enable lzma2/ultra64 compression and remove duplicate web build files\n* chore(release): bump version to v5.0.61\n* fix(release): eliminate parser errors by using UTF-8 BOM, CRLF, and removing here-strings in release.ps1\n* chore(release): bump version to 5.0.60 and add test_mpv example"
 }
