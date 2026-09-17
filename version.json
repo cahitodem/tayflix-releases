@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.60",
-    "name":  "Tayflix v5.0.60",
+    "version":  "5.0.61",
+    "name":  "Tayflix v5.0.61",
     "releaseDate":  "2026-09-17",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.60/TayflixSetup-v5.0.60_x64.exe",
-    "filename":  "TayflixSetup-v5.0.60_x64.exe",
-    "checksum":  "7bd01b1bff6949697379b0efeb44b6741f49c413fbec94a6488b85ba3fbcac05",
-    "notes":  "Fix SeFLix and FilmMakinesi HLS audio demuxing, restore sound in Hotlinger streams, and enable player audio track selection"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.61/TayflixSetup-v5.0.61_x64.exe",
+    "filename":  "TayflixSetup-v5.0.61_x64.exe",
+    "checksum":  "7276073eebf206c48b8427c7d1565382848348f8f49f65255e2331f3af531959",
+    "notes":  "* fix(release): eliminate parser errors by using UTF-8 BOM, CRLF, and removing here-strings in release.ps1\n* chore(release): bump version to 5.0.60 and add test_mpv example\n* feat(release): replace curl with reliable Node.js streaming asset uploader\n* chore(release): bump version to v5.0.60\n* fix(release): resolve CRLF here-string and string interpolation parsing in release.ps1"
 }
