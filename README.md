@@ -1,20 +1,20 @@
 # Tayflix Releases
 
-Tayflix Masaüstü Uygulaması Resmi Kurulum ve Otomatik Güncelleme Dosyaları Deposu.
+Tayflix MasaÃ¼stÃ¼ UygulamasÄ± Resmi Kurulum ve Otomatik GÃ¼ncelleme DosyalarÄ± Deposu.
 
-Bu depoda yalnızca uygulamanın derlenmiş resmi Windows kurulum dosyaları (.exe) ve en güncel sürüm üstveri bilgisi (ersion.json) barındırılmaktadır.
+Bu depoda yalnÄ±zca uygulamanÄ±n derlenmiÅŸ resmi Windows kurulum dosyalarÄ± (.exe) ve en gÃ¼ncel sÃ¼rÃ¼m Ã¼stveri bilgisi (ersion.json) barÄ±ndÄ±rÄ±lmaktadÄ±r.
 
 ---
 
-### En Son Sürümü İndir
+### En Son SÃ¼rÃ¼mÃ¼ Ä°ndir
 
-| Platform | Dosya | Sürüm | İndirme |
+| Platform | Dosya | SÃ¼rÃ¼m | Ä°ndirme |
 | :--- | :--- | :--- | :--- |
-| **Windows x64** | TayflixSetup-v5.0.64_x64.exe | **v5.0.64** | [Doğrudan İndir](https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.64/TayflixSetup-v5.0.64_x64.exe) |
+| **Windows x64** | TayflixSetup-v5.0.64_x64.exe | **v5.0.64** | [DoÄŸrudan Ä°ndir](https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.64/TayflixSetup-v5.0.64_x64.exe) |
 
-Tüm geçmiş sürümler için [Releases](https://github.com/cahitodem/tayflix-releases/releases) sekmesini ziyaret edebilirsiniz.
+TÃ¼m geÃ§miÅŸ sÃ¼rÃ¼mler iÃ§in [Releases](https://github.com/cahitodem/tayflix-releases/releases) sekmesini ziyaret edebilirsiniz.
 
 ---
 
-### Otomatik Güncelleme
-Tayflix masaüstü uygulaması bu depoyu otomatik olarak arka planda kontrol eder veya **Ayarlar -> Bilgi** ekranından tek tıkla güncelleme denetimi yapmanızı sağlar. Yeni bir sürüm yayınlandığında uygulama içinden doğrudan güncelleyebilirsiniz.
+### Otomatik GÃ¼ncelleme
+Tayflix masaÃ¼stÃ¼ uygulamasÄ± bu depoyu otomatik olarak arka planda kontrol eder veya **Ayarlar -> Bilgi** ekranÄ±ndan tek tÄ±kla gÃ¼ncelleme denetimi yapmanÄ±zÄ± saÄŸlar. Yeni bir sÃ¼rÃ¼m yayÄ±nlandÄ±ÄŸÄ±nda uygulama iÃ§inden doÄŸrudan gÃ¼ncelleyebilirsiniz.
