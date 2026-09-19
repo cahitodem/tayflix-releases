@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.63",
-    "name":  "Tayflix v5.0.63",
+    "version":  "5.0.64",
+    "name":  "Tayflix v5.0.64",
     "releaseDate":  "2026-09-19",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.63/TayflixSetup-v5.0.63_x64.exe",
-    "filename":  "TayflixSetup-v5.0.63_x64.exe",
-    "checksum":  "71b41ab04bb1246d2e189297978eac431c3f1e7450b42d184e2b8bc05142a1b9",
-    "notes":  "* chore: reorganize directory navigation for addon startup scripts\n* feat: Add video quality selection feature to player\n* feat(addon): update version to 1.0.2 and enhance description for clarity\n* chore(release): bump stremio-shell-ng version to 5.0.62\n* fix(release): remove invalid --clobber flag from gh release create and separate release creation from upload"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.64/TayflixSetup-v5.0.64_x64.exe",
+    "filename":  "TayflixSetup-v5.0.64_x64.exe",
+    "checksum":  "65342cd6d43650b8ac871e9a3cbe5eda727ccd470463d3f165c8f3c89207abc3",
+    "notes":  "* feat: enhance GitHub release process with improved error handling and asset management\n* feat: update TLC TV addon version to 1.1.0 and enhance stream handling\n* chore(release): bump version to v5.0.63\n* chore: reorganize directory navigation for addon startup scripts\n* feat: Add video quality selection feature to player"
 }
