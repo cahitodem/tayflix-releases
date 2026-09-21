@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.68",
-    "name":  "Tayflix v5.0.68",
+    "version":  "5.0.69",
+    "name":  "Tayflix v5.0.69",
     "releaseDate":  "2026-09-21",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.68/TayflixSetup-v5.0.68_x64.exe",
-    "filename":  "TayflixSetup-v5.0.68_x64.exe",
-    "checksum":  "8f9365cc7a80fb5ae852159acf193868a88471abbd6bbbb8a67d7cbe52d1cd3e",
-    "notes":  "* feat: remove OpenSubtitles v3 from unwanted and hidden addon lists, and ensure its automatic installation if not present\n* chore(release): bump version to v5.0.67\n* Refactor code structure for improved readability and maintainability\n* feat: update stremio-shell-ng to version 5.0.66 and enhance update handling in http server\n* chore(release): bump version to v5.0.66"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.69/TayflixSetup-v5.0.69_x64.exe",
+    "filename":  "TayflixSetup-v5.0.69_x64.exe",
+    "checksum":  "29afcda3a6efa7c7652c9d1021697df71b9230b6106175d7cb6c590ec90eb982",
+    "notes":  "* chore(release): bump version to v5.0.68\n* feat: remove OpenSubtitles v3 from unwanted and hidden addon lists, and ensure its automatic installation if not present\n* chore(release): bump version to v5.0.67\n* Refactor code structure for improved readability and maintainability\n* feat: update stremio-shell-ng to version 5.0.66 and enhance update handling in http server"
 }
