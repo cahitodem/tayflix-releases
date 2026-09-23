@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.80",
-    "name":  "Tayflix v5.0.80",
+    "version":  "5.0.81",
+    "name":  "Tayflix v5.0.81",
     "releaseDate":  "2026-09-23",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.80/TayflixSetup-v5.0.80_x64.exe",
-    "filename":  "TayflixSetup-v5.0.80_x64.exe",
-    "checksum":  "a48f2765d9600c7ce88a478f560276a2add7e0d900d94c2fa568dfddf168f1e8",
-    "notes":  "* fix(colors): update splash and window caption colors for consistency\n* fix(vercel): eliminate static asset NFT tracing hang, move auth to lib, and deploy ready serverless gateway\n* chore(release): bump version to v5.0.79\n* refactor(LiveTV styles): update layout and improve responsiveness of channels section\n* fix(vercel): prevent app.listen hang during build and add build script"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.81/TayflixSetup-v5.0.81_x64.exe",
+    "filename":  "TayflixSetup-v5.0.81_x64.exe",
+    "checksum":  "a63879416787c2c3d229d599840dcf5badc31014df2967dc28f149c844b6d9b8",
+    "notes":  "* fix(LiveTV): refactor genre selection and search bar for improved usability\n* fix(AuthGate): replace lock icon with Tayflix logo image\n* Add Tayflix icon image to the public images directory\n* chore(release): bump version to v5.0.80\n* fix(colors): update splash and window caption colors for consistency"
 }
