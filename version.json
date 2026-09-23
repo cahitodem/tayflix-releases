@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.81",
-    "name":  "Tayflix v5.0.81",
+    "version":  "5.0.82",
+    "name":  "Tayflix v5.0.82",
     "releaseDate":  "2026-09-23",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.81/TayflixSetup-v5.0.81_x64.exe",
-    "filename":  "TayflixSetup-v5.0.81_x64.exe",
-    "checksum":  "a63879416787c2c3d229d599840dcf5badc31014df2967dc28f149c844b6d9b8",
-    "notes":  "* fix(LiveTV): refactor genre selection and search bar for improved usability\n* fix(AuthGate): replace lock icon with Tayflix logo image\n* Add Tayflix icon image to the public images directory\n* chore(release): bump version to v5.0.80\n* fix(colors): update splash and window caption colors for consistency"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.82/TayflixSetup-v5.0.82_x64.exe",
+    "filename":  "TayflixSetup-v5.0.82_x64.exe",
+    "checksum":  "095d276f36dd4be38b436e2085ecc51c0f8cbb7526a6962645621d9e0a45648c",
+    "notes":  "* feat(icon): update tayflix icon SVG dimensions and gradients for improved rendering\n* feat: implement hybrid client-assisted scraping and direct streaming for Android\n* fix(debug-test): enhance debug-test endpoint with additional addon catalog retrieval\n* fix(debug-test): refactor debug-test endpoint to use HTTPS requests for improved reliability\n* fix(scrapers): update curl command to be platform agnostic"
 }
