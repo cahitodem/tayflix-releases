@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.76",
-    "name":  "Tayflix v5.0.76",
+    "version":  "5.0.77",
+    "name":  "Tayflix v5.0.77",
     "releaseDate":  "2026-09-23",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.76/TayflixSetup-v5.0.76_x64.exe",
-    "filename":  "TayflixSetup-v5.0.76_x64.exe",
-    "checksum":  "dc4f38c4e9064bf2ee306918a119a9768f4aec58f087536368b2321acd326810",
-    "notes":  "* feat: implement YouTube trailer search functionality and integrate into addons\n* chore(release): bump version to v5.0.75\n* feat: add action buttons for marking video as watched and playing; enhance styles for interaction\n* chore(release): bump version to v5.0.74\n* feat: enhance image optimization and HD poster fetching across addons"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.77/TayflixSetup-v5.0.77_x64.exe",
+    "filename":  "TayflixSetup-v5.0.77_x64.exe",
+    "checksum":  "c218b3f51ba084041e0d0c2d87c1ededf8dd98484d76c6d4f48068fced8ffcee",
+    "notes":  "* feat: enhance trailer fetching and handling across components; improve loading states and UI interactions\n* chore(release): bump version to v5.0.76\n* feat: implement YouTube trailer search functionality and integrate into addons\n* chore(release): bump version to v5.0.75\n* feat: add action buttons for marking video as watched and playing; enhance styles for interaction"
 }
