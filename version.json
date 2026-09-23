@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.74",
-    "name":  "Tayflix v5.0.74",
+    "version":  "5.0.75",
+    "name":  "Tayflix v5.0.75",
     "releaseDate":  "2026-09-23",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.74/TayflixSetup-v5.0.74_x64.exe",
-    "filename":  "TayflixSetup-v5.0.74_x64.exe",
-    "checksum":  "697fc44349d88303dc530ee584c8be90b39977ee493fbc66f33d981fd576a909",
-    "notes":  "* feat: enhance image optimization and HD poster fetching across addons\n* chore(release): bump version to v5.0.73\n* feat: implement trailer functionality across components; add TrailerModal and enhance MetaItem and Top10Card with trailer support\n* chore(release): bump version to v5.0.72\n* feat: add trailer functionality across addons; implement TrailerModal component for video playback"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.75/TayflixSetup-v5.0.75_x64.exe",
+    "filename":  "TayflixSetup-v5.0.75_x64.exe",
+    "checksum":  "8243d2f731c39dddba025c140c023020debb2cb3d265e1d02f416dbb73edec83",
+    "notes":  "* feat: add action buttons for marking video as watched and playing; enhance styles for interaction\n* chore(release): bump version to v5.0.74\n* feat: enhance image optimization and HD poster fetching across addons\n* chore(release): bump version to v5.0.73\n* feat: implement trailer functionality across components; add TrailerModal and enhance MetaItem and Top10Card with trailer support"
 }
