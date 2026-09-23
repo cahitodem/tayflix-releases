@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.77",
-    "name":  "Tayflix v5.0.77",
+    "version":  "5.0.78",
+    "name":  "Tayflix v5.0.78",
     "releaseDate":  "2026-09-23",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.77/TayflixSetup-v5.0.77_x64.exe",
-    "filename":  "TayflixSetup-v5.0.77_x64.exe",
-    "checksum":  "c218b3f51ba084041e0d0c2d87c1ededf8dd98484d76c6d4f48068fced8ffcee",
-    "notes":  "* feat: enhance trailer fetching and handling across components; improve loading states and UI interactions\n* chore(release): bump version to v5.0.76\n* feat: implement YouTube trailer search functionality and integrate into addons\n* chore(release): bump version to v5.0.75\n* feat: add action buttons for marking video as watched and playing; enhance styles for interaction"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.78/TayflixSetup-v5.0.78_x64.exe",
+    "filename":  "TayflixSetup-v5.0.78_x64.exe",
+    "checksum":  "665221d92d9189709afbf7e4fd75db75166840d939f147f16555a24b3e1d2e08",
+    "notes":  "* feat: update images for anonymous, default avatar, and empty states; enhance LiveTV and TrailerModal styles for better responsiveness\n* feat: update logo and favicon images; enhance logo interactivity in navigation bar\n* feat: update taylix logo image file\n* feat: add tayflix icon SVG and update related image files\n* feat: implement favorites management with local storage; add search functionality in player and live TV routes"
 }
