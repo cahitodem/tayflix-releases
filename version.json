@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.82",
-    "name":  "Tayflix v5.0.82",
+    "version":  "5.0.83",
+    "name":  "Tayflix v5.0.83",
     "releaseDate":  "2026-09-23",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.82/TayflixSetup-v5.0.82_x64.exe",
-    "filename":  "TayflixSetup-v5.0.82_x64.exe",
-    "checksum":  "095d276f36dd4be38b436e2085ecc51c0f8cbb7526a6962645621d9e0a45648c",
-    "notes":  "* feat(icon): update tayflix icon SVG dimensions and gradients for improved rendering\n* feat: implement hybrid client-assisted scraping and direct streaming for Android\n* fix(debug-test): enhance debug-test endpoint with additional addon catalog retrieval\n* fix(debug-test): refactor debug-test endpoint to use HTTPS requests for improved reliability\n* fix(scrapers): update curl command to be platform agnostic"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.83/TayflixSetup-v5.0.83_x64.exe",
+    "filename":  "TayflixSetup-v5.0.83_x64.exe",
+    "checksum":  "1744ba8cefd2ab220a955eaddbf90302abc8580ce554a811770a69b5a007d4d6",
+    "notes":  "* fix(android): do not intercept auth routes and add auto-login session injection\n* chore(branding): update desktop, web UI favicons and android app icons from tayflix_icon_text\n* chore(release): bump version to v5.0.82\n* feat(icon): update tayflix icon SVG dimensions and gradients for improved rendering\n* feat: implement hybrid client-assisted scraping and direct streaming for Android"
 }
