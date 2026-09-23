@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.78",
-    "name":  "Tayflix v5.0.78",
+    "version":  "5.0.79",
+    "name":  "Tayflix v5.0.79",
     "releaseDate":  "2026-09-23",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.78/TayflixSetup-v5.0.78_x64.exe",
-    "filename":  "TayflixSetup-v5.0.78_x64.exe",
-    "checksum":  "665221d92d9189709afbf7e4fd75db75166840d939f147f16555a24b3e1d2e08",
-    "notes":  "* feat: update images for anonymous, default avatar, and empty states; enhance LiveTV and TrailerModal styles for better responsiveness\n* feat: update logo and favicon images; enhance logo interactivity in navigation bar\n* feat: update taylix logo image file\n* feat: add tayflix icon SVG and update related image files\n* feat: implement favorites management with local storage; add search functionality in player and live TV routes"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.79/TayflixSetup-v5.0.79_x64.exe",
+    "filename":  "TayflixSetup-v5.0.79_x64.exe",
+    "checksum":  "1a5a2f1ca7aae5e1266d0131740e7598afdf6c7e362997cee2fe2d2e7884eac9",
+    "notes":  "* refactor(LiveTV styles): update layout and improve responsiveness of channels section\n* fix(vercel): prevent app.listen hang during build and add build script\n* Add styles for search and settings routes\n* ### Tayflix Android APP\n* chore(release): bump version to v5.0.78"
 }
