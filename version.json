@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.71",
-    "name":  "Tayflix v5.0.71",
+    "version":  "5.0.72",
+    "name":  "Tayflix v5.0.72",
     "releaseDate":  "2026-09-23",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.71/TayflixSetup-v5.0.71_x64.exe",
-    "filename":  "TayflixSetup-v5.0.71_x64.exe",
-    "checksum":  "dfef91d5d5eeb19e3122ff198ff123ffaf59bf0a8327a1d2aaa35b53fb93453e",
-    "notes":  "* feat: add favorite functionality to MetaItem component; enhance Favorites and Recent routes with updated favorite handling\n* feat: enhance LiveTV and Favorites components with search and favorite functionality; improve UI elements across various components\n* chore(release): bump version to v5.0.70\n* feat: enhance subtitle handling across addons\n* chore(release): bump version to v5.0.69"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.72/TayflixSetup-v5.0.72_x64.exe",
+    "filename":  "TayflixSetup-v5.0.72_x64.exe",
+    "checksum":  "af67649dc92f918341a94fa9c9e2cc61525a5bd4432c29d1b558771fff9696f9",
+    "notes":  "* feat: add trailer functionality across addons; implement TrailerModal component for video playback\n* chore(release): bump version to v5.0.71\n* feat: add favorite functionality to MetaItem component; enhance Favorites and Recent routes with updated favorite handling\n* feat: enhance LiveTV and Favorites components with search and favorite functionality; improve UI elements across various components\n* chore(release): bump version to v5.0.70"
 }
