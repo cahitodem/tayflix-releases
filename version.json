@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.84",
-    "name":  "Tayflix v5.0.84",
-    "releaseDate":  "2026-09-23",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.84/TayflixSetup-v5.0.84_x64.exe",
-    "filename":  "TayflixSetup-v5.0.84_x64.exe",
-    "checksum":  "27129c78fc31ae1d552c86ff91b2315c80cf3d7a57c4a060d1852ed71e38132a",
-    "notes":  "* chore(release): bump version to v5.0.83\n* fix(android): do not intercept auth routes and add auto-login session injection\n* chore(branding): update desktop, web UI favicons and android app icons from tayflix_icon_text\n* chore(release): bump version to v5.0.82\n* feat(icon): update tayflix icon SVG dimensions and gradients for improved rendering"
+    "version":  "5.0.85",
+    "name":  "Tayflix v5.0.85",
+    "releaseDate":  "2026-09-25",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.85/TayflixSetup-v5.0.85_x64.exe",
+    "filename":  "TayflixSetup-v5.0.85_x64.exe",
+    "checksum":  "1e3ae4ade255427444372aa7213d70625716546b34b655d9d22f9a860612bc0c",
+    "notes":  "* fix(languages): enhance language handling and normalization, add support for additional language codes\n* fix(stream): implement hybrid player iframe and source2 resolution with direct Android CDN proxying\n* test: add curl check for player hosts in debug-test\n* fix(seflix): propagate and preserve slug across multi-hop hybrid calls and avoid caching empty stream arrays\n* fix(stream): implement multi-hop hybrid fetching, rewrite proxy stream URLs to public gateway, and fix search error bubbling"
 }
