@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.85",
-    "name":  "Tayflix v5.0.85",
-    "releaseDate":  "2026-09-25",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.85/TayflixSetup-v5.0.85_x64.exe",
-    "filename":  "TayflixSetup-v5.0.85_x64.exe",
-    "checksum":  "1e3ae4ade255427444372aa7213d70625716546b34b655d9d22f9a860612bc0c",
-    "notes":  "* fix(languages): enhance language handling and normalization, add support for additional language codes\n* fix(stream): implement hybrid player iframe and source2 resolution with direct Android CDN proxying\n* test: add curl check for player hosts in debug-test\n* fix(seflix): propagate and preserve slug across multi-hop hybrid calls and avoid caching empty stream arrays\n* fix(stream): implement multi-hop hybrid fetching, rewrite proxy stream URLs to public gateway, and fix search error bubbling"
+    "version":  "5.0.86",
+    "name":  "Tayflix v5.0.86",
+    "releaseDate":  "2026-09-27",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.86/TayflixSetup-v5.0.86_x64.exe",
+    "filename":  "TayflixSetup-v5.0.86_x64.exe",
+    "checksum":  "9c80e64969cf0dcad8459df198a98c0bef16fca08b293148171fc44e3fc43bf8",
+    "notes":  "* fix(stream): enhance playlist rewriting and error handling in proxy requests\n* chore(release): bump version to v5.0.85\n* fix(languages): enhance language handling and normalization, add support for additional language codes\n* fix(stream): implement hybrid player iframe and source2 resolution with direct Android CDN proxying\n* test: add curl check for player hosts in debug-test"
 }
