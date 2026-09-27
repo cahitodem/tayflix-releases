@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.87",
-    "name":  "Tayflix v5.0.87",
+    "version":  "5.0.88",
+    "name":  "Tayflix v5.0.88",
     "releaseDate":  "2026-09-27",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.87/TayflixSetup-v5.0.87_x64.exe",
-    "filename":  "TayflixSetup-v5.0.87_x64.exe",
-    "checksum":  "935d03cdbdcb9c2e7763586023e577c5840c68f41f058caba98fd92b95555b2a",
-    "notes":  "* fix(release): suppress output for release view command in GitHub CLI\n* feat(updater): implement background update handling and installer execution\n* fix(toast): improve error handling for user and library sync events\n* feat: enhance video and detail modal components with favorite handling and keyboard navigation\n* chore(release): bump version to v5.0.86"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.88/TayflixSetup-v5.0.88_x64.exe",
+    "filename":  "TayflixSetup-v5.0.88_x64.exe",
+    "checksum":  "3a4f9391d2592ed96b530cdca1bd78e1e53e0cf96a8367d77fea0b32eedef434",
+    "notes":  "* feat(ui): update header and player loading buffering logos with new tayflix icon\n* fix(release): fix README encoding with UTF-8 BOM and safe here-string template\n* chore(release): bump version to v5.0.87\n* fix(release): suppress output for release view command in GitHub CLI\n* feat(updater): implement background update handling and installer execution"
 }
