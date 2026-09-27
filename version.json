@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.89",
-    "name":  "Tayflix v5.0.89",
+    "version":  "5.0.90",
+    "name":  "Tayflix v5.0.90",
     "releaseDate":  "2026-09-27",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.89/TayflixSetup-v5.0.89_x64.exe",
-    "filename":  "TayflixSetup-v5.0.89_x64.exe",
-    "checksum":  "45967776a0b2499e259af2d37e9b3297e83c3ff890686d231c9bad82595f306c",
-    "notes":  "* Remove test scripts for TLC TV addon: deleted test_bundle.js and test_tlc.js to clean up unused code.\n* Implement HLS Stream Proxy for TLC TV with caching and quality selection\n* chore(release): bump version to v5.0.88\n* feat(ui): update header and player loading buffering logos with new tayflix icon\n* fix(release): fix README encoding with UTF-8 BOM and safe here-string template"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.90/TayflixSetup-v5.0.90_x64.exe",
+    "filename":  "TayflixSetup-v5.0.90_x64.exe",
+    "checksum":  "b72d9ab672edd8ba3646a59b79813b248b20512dd52afef444a937ebe9524913",
+    "notes":  "* feat(updater): implement transparent real-time background download and seamless auto-update system\n* chore(release): bump version to v5.0.89\n* Remove test scripts for TLC TV addon: deleted test_bundle.js and test_tlc.js to clean up unused code.\n* Implement HLS Stream Proxy for TLC TV with caching and quality selection\n* chore(release): bump version to v5.0.88"
 }
