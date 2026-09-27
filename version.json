@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.86",
-    "name":  "Tayflix v5.0.86",
+    "version":  "5.0.87",
+    "name":  "Tayflix v5.0.87",
     "releaseDate":  "2026-09-27",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.86/TayflixSetup-v5.0.86_x64.exe",
-    "filename":  "TayflixSetup-v5.0.86_x64.exe",
-    "checksum":  "9c80e64969cf0dcad8459df198a98c0bef16fca08b293148171fc44e3fc43bf8",
-    "notes":  "* fix(stream): enhance playlist rewriting and error handling in proxy requests\n* chore(release): bump version to v5.0.85\n* fix(languages): enhance language handling and normalization, add support for additional language codes\n* fix(stream): implement hybrid player iframe and source2 resolution with direct Android CDN proxying\n* test: add curl check for player hosts in debug-test"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.87/TayflixSetup-v5.0.87_x64.exe",
+    "filename":  "TayflixSetup-v5.0.87_x64.exe",
+    "checksum":  "935d03cdbdcb9c2e7763586023e577c5840c68f41f058caba98fd92b95555b2a",
+    "notes":  "* fix(release): suppress output for release view command in GitHub CLI\n* feat(updater): implement background update handling and installer execution\n* fix(toast): improve error handling for user and library sync events\n* feat: enhance video and detail modal components with favorite handling and keyboard navigation\n* chore(release): bump version to v5.0.86"
 }
