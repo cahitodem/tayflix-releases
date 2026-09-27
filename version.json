@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.88",
-    "name":  "Tayflix v5.0.88",
+    "version":  "5.0.89",
+    "name":  "Tayflix v5.0.89",
     "releaseDate":  "2026-09-27",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.88/TayflixSetup-v5.0.88_x64.exe",
-    "filename":  "TayflixSetup-v5.0.88_x64.exe",
-    "checksum":  "3a4f9391d2592ed96b530cdca1bd78e1e53e0cf96a8367d77fea0b32eedef434",
-    "notes":  "* feat(ui): update header and player loading buffering logos with new tayflix icon\n* fix(release): fix README encoding with UTF-8 BOM and safe here-string template\n* chore(release): bump version to v5.0.87\n* fix(release): suppress output for release view command in GitHub CLI\n* feat(updater): implement background update handling and installer execution"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.89/TayflixSetup-v5.0.89_x64.exe",
+    "filename":  "TayflixSetup-v5.0.89_x64.exe",
+    "checksum":  "45967776a0b2499e259af2d37e9b3297e83c3ff890686d231c9bad82595f306c",
+    "notes":  "* Remove test scripts for TLC TV addon: deleted test_bundle.js and test_tlc.js to clean up unused code.\n* Implement HLS Stream Proxy for TLC TV with caching and quality selection\n* chore(release): bump version to v5.0.88\n* feat(ui): update header and player loading buffering logos with new tayflix icon\n* fix(release): fix README encoding with UTF-8 BOM and safe here-string template"
 }
