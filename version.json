@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.96",
-    "name":  "Tayflix v5.0.96",
+    "version":  "5.0.97",
+    "name":  "Tayflix v5.0.97",
     "releaseDate":  "2026-10-02",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.96/TayflixSetup-v5.0.96_x64.exe",
-    "filename":  "TayflixSetup-v5.0.96_x64.exe",
-    "checksum":  "19fad68bc43b76bc6098be026af47306a035341497113a14750cca863d6ba3ca",
-    "notes":  "* fix(player): eliminate startup delay, black screen freeze and buffer stalls (v5.0.95)\n* chore(release): bump version to v5.0.94\n* feat: increase DNS cache TTL and enhance HTTP agent settings across addons\n* feat(Player): enhance live badge with equalizer animation and style adjustments\n* chore(release): bump version to v5.0.93 and add Addons Hub implementation"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.97/TayflixSetup-v5.0.97_x64.exe",
+    "filename":  "TayflixSetup-v5.0.97_x64.exe",
+    "checksum":  "b2bf2bbb72aa7b035c284ed0d3ab483b7c4b2add78895d0a65edd9edcb41b7db",
+    "notes":  "* feat: add command to run addons hub in terminal instructions\n* feat(filmmakinesi): automate Cloudflare Turnstile bypass via background Chrome CDP bridge\n* feat: implement Cloudflare cookie management and enhance proxy request handling\n* chore(release): bump version to v5.0.96\n* fix(player): eliminate startup delay, black screen freeze and buffer stalls (v5.0.95)"
 }
