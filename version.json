@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.92",
-    "name":  "Tayflix v5.0.92",
+    "version":  "5.0.93",
+    "name":  "Tayflix v5.0.93",
     "releaseDate":  "2026-10-02",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.92/TayflixSetup-v5.0.92_x64.exe",
-    "filename":  "TayflixSetup-v5.0.92_x64.exe",
-    "checksum":  "fe3d63804ae3bd1db8e99b7211fde0850106cc650dfcd8dd8639d4e68483dbf9",
-    "notes":  "* chore(release): bump version to v5.0.91\n* chore(release): bump version to v5.0.90\n* feat(updater): implement transparent real-time background download and seamless auto-update system\n* chore(release): bump version to v5.0.89\n* Remove test scripts for TLC TV addon: deleted test_bundle.js and test_tlc.js to clean up unused code."
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.93/TayflixSetup-v5.0.93_x64.exe",
+    "filename":  "TayflixSetup-v5.0.93_x64.exe",
+    "checksum":  "b5f70e56dabda48bd10591bdaf440ab020bb2b472271a5575682ee324a748640",
+    "notes":  "* chore(release): bump version to v5.0.92\n* chore(release): bump version to v5.0.91\n* chore(release): bump version to v5.0.90\n* feat(updater): implement transparent real-time background download and seamless auto-update system\n* chore(release): bump version to v5.0.89"
 }
