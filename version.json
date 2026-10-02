@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.91",
-    "name":  "Tayflix v5.0.91",
+    "version":  "5.0.92",
+    "name":  "Tayflix v5.0.92",
     "releaseDate":  "2026-10-02",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.91/TayflixSetup-v5.0.91_x64.exe",
-    "filename":  "TayflixSetup-v5.0.91_x64.exe",
-    "checksum":  "f8d5e28056970485abbca84415ff9d9ed84b5c7d888c7a6bd0a20c813a4dddd8",
-    "notes":  "Seflix video ve ses senkronizasyonu duzeltmeleri, MPV video-sync audio optimizasyonu, dusuk donanim GPU ayarlari ve HLS DNS onbellegi"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.92/TayflixSetup-v5.0.92_x64.exe",
+    "filename":  "TayflixSetup-v5.0.92_x64.exe",
+    "checksum":  "fe3d63804ae3bd1db8e99b7211fde0850106cc650dfcd8dd8639d4e68483dbf9",
+    "notes":  "* chore(release): bump version to v5.0.91\n* chore(release): bump version to v5.0.90\n* feat(updater): implement transparent real-time background download and seamless auto-update system\n* chore(release): bump version to v5.0.89\n* Remove test scripts for TLC TV addon: deleted test_bundle.js and test_tlc.js to clean up unused code."
 }
