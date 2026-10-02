@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.90",
-    "name":  "Tayflix v5.0.90",
-    "releaseDate":  "2026-09-27",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.90/TayflixSetup-v5.0.90_x64.exe",
-    "filename":  "TayflixSetup-v5.0.90_x64.exe",
-    "checksum":  "b72d9ab672edd8ba3646a59b79813b248b20512dd52afef444a937ebe9524913",
-    "notes":  "* feat(updater): implement transparent real-time background download and seamless auto-update system\n* chore(release): bump version to v5.0.89\n* Remove test scripts for TLC TV addon: deleted test_bundle.js and test_tlc.js to clean up unused code.\n* Implement HLS Stream Proxy for TLC TV with caching and quality selection\n* chore(release): bump version to v5.0.88"
+    "version":  "5.0.91",
+    "name":  "Tayflix v5.0.91",
+    "releaseDate":  "2026-10-02",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.91/TayflixSetup-v5.0.91_x64.exe",
+    "filename":  "TayflixSetup-v5.0.91_x64.exe",
+    "checksum":  "f8d5e28056970485abbca84415ff9d9ed84b5c7d888c7a6bd0a20c813a4dddd8",
+    "notes":  "Seflix video ve ses senkronizasyonu duzeltmeleri, MPV video-sync audio optimizasyonu, dusuk donanim GPU ayarlari ve HLS DNS onbellegi"
 }
