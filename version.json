@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.93",
-    "name":  "Tayflix v5.0.93",
+    "version":  "5.0.94",
+    "name":  "Tayflix v5.0.94",
     "releaseDate":  "2026-10-02",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.93/TayflixSetup-v5.0.93_x64.exe",
-    "filename":  "TayflixSetup-v5.0.93_x64.exe",
-    "checksum":  "b5f70e56dabda48bd10591bdaf440ab020bb2b472271a5575682ee324a748640",
-    "notes":  "* chore(release): bump version to v5.0.92\n* chore(release): bump version to v5.0.91\n* chore(release): bump version to v5.0.90\n* feat(updater): implement transparent real-time background download and seamless auto-update system\n* chore(release): bump version to v5.0.89"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.94/TayflixSetup-v5.0.94_x64.exe",
+    "filename":  "TayflixSetup-v5.0.94_x64.exe",
+    "checksum":  "16f5dba38fbfa82b26b8c8108ba0efcc425cc348a606a7c2faa8a4ec5fcdba01",
+    "notes":  "* feat: increase DNS cache TTL and enhance HTTP agent settings across addons\n* feat(Player): enhance live badge with equalizer animation and style adjustments\n* chore(release): bump version to v5.0.93 and add Addons Hub implementation\n* chore(release): bump version to v5.0.92\n* chore(release): bump version to v5.0.91"
 }
