@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.97",
-    "name":  "Tayflix v5.0.97",
-    "releaseDate":  "2026-10-02",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.97/TayflixSetup-v5.0.97_x64.exe",
-    "filename":  "TayflixSetup-v5.0.97_x64.exe",
-    "checksum":  "b2bf2bbb72aa7b035c284ed0d3ab483b7c4b2add78895d0a65edd9edcb41b7db",
-    "notes":  "* feat: add command to run addons hub in terminal instructions\n* feat(filmmakinesi): automate Cloudflare Turnstile bypass via background Chrome CDP bridge\n* feat: implement Cloudflare cookie management and enhance proxy request handling\n* chore(release): bump version to v5.0.96\n* fix(player): eliminate startup delay, black screen freeze and buffer stalls (v5.0.95)"
+    "version":  "5.0.98",
+    "name":  "Tayflix v5.0.98",
+    "releaseDate":  "2026-10-04",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.98/TayflixSetup-v5.0.98_x64.exe",
+    "filename":  "TayflixSetup-v5.0.98_x64.exe",
+    "checksum":  "ca79e3b5e05c4b5e31a30625495b2d478789cb62bedf47ac3885f0bbcda05c42",
+    "notes":  "* feat: enhance playlist handling and auto-reconnect logic in stream proxy\n* chore(release): bump version to v5.0.97\n* feat: add command to run addons hub in terminal instructions\n* feat(filmmakinesi): automate Cloudflare Turnstile bypass via background Chrome CDP bridge\n* feat: implement Cloudflare cookie management and enhance proxy request handling"
 }
