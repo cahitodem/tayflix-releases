@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.98",
-    "name":  "Tayflix v5.0.98",
-    "releaseDate":  "2026-10-04",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.98/TayflixSetup-v5.0.98_x64.exe",
-    "filename":  "TayflixSetup-v5.0.98_x64.exe",
-    "checksum":  "ca79e3b5e05c4b5e31a30625495b2d478789cb62bedf47ac3885f0bbcda05c42",
-    "notes":  "* feat: enhance playlist handling and auto-reconnect logic in stream proxy\n* chore(release): bump version to v5.0.97\n* feat: add command to run addons hub in terminal instructions\n* feat(filmmakinesi): automate Cloudflare Turnstile bypass via background Chrome CDP bridge\n* feat: implement Cloudflare cookie management and enhance proxy request handling"
+    "version":  "5.0.99",
+    "name":  "Tayflix v5.0.99",
+    "releaseDate":  "2026-10-07",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.99/TayflixSetup-v5.0.99_x64.exe",
+    "filename":  "TayflixSetup-v5.0.99_x64.exe",
+    "checksum":  "e80c6b52f46baf5f6b05c3324f62c3d6ad3f65478e78229ea041d9782a95dd65",
+    "notes":  "* Refactor stream fetching functions across multiple addons for improved flexibility and error handling\n* chore(release): bump version to v5.0.98\n* feat: enhance playlist handling and auto-reconnect logic in stream proxy\n* chore(release): bump version to v5.0.97\n* feat: add command to run addons hub in terminal instructions"
 }
