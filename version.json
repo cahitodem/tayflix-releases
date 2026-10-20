@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.101",
-    "name":  "Tayflix v5.0.101",
+    "version":  "5.0.102",
+    "name":  "Tayflix v5.0.102",
     "releaseDate":  "2026-10-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.101/TayflixSetup-v5.0.101_x64.exe",
-    "filename":  "TayflixSetup-v5.0.101_x64.exe",
-    "checksum":  "65a12eb8ff879334b987276d64d2dce19bd4f606744328d2d0fac52f4f81aa22",
-    "notes":  "* FIX SD\n* chore(release): bump version to v5.0.100\n* feat(SeekBar): add hover time preview tooltip on desktop scrubber\n* build(vercel): update vercel-app public bundle assets with latest UI/UX fixes\n* feat(Image): prevent layout collapse (CLS) and add fallback placeholder styling when images fail"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.102/TayflixSetup-v5.0.102_x64.exe",
+    "filename":  "TayflixSetup-v5.0.102_x64.exe",
+    "checksum":  "7ba249f427986211f3a78d379867444b0724b3bc9b995a1c4c94149551d29b39",
+    "notes":  "* fix(sezonlukdizi): implement headless Edge session solver and native stream extraction for Turnstile bypass\n* fix(release): follow redirects and auto-create release in uploadAsset fallback\n* chore(release): bump version to v5.0.101\n* FIX SD\n* chore(release): bump version to v5.0.100"
 }
