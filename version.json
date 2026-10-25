@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.106",
-    "name":  "Tayflix v5.0.106",
+    "version":  "5.1.7",
+    "name":  "Tayflix v5.1.7",
     "releaseDate":  "2026-10-25",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.106/TayflixSetup-v5.0.106_x64.exe",
-    "filename":  "TayflixSetup-v5.0.106_x64.exe",
-    "checksum":  "8196f5b291987d8740bbd7d844221f994ff58c2b301d3c9e91a29a29e039ebf9",
-    "notes":  "* Enhance update installation handling and improve setup script\n* chore(release): bump version to v5.0.105\n* Add initial catalog cache for movies and series in stremio-filmmakinesi-addon\n* feat: Enhance genre normalization and add addon type support in unified discover functionality\n* feat: Enhance error handling and type fallback in unified discover functionality"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.7/TayflixSetup-v5.1.7_x64.exe",
+    "filename":  "TayflixSetup-v5.1.7_x64.exe",
+    "checksum":  "21cf829189b1549ec3d290403929c46d2de3d58fa514c64e003b8c3cb8bfec83",
+    "notes":  "* feat: Improve version increment logic for patch releases with normalization\n* chore(release): bump version to v5.0.106\n* Enhance update installation handling and improve setup script\n* chore(release): bump version to v5.0.105\n* Add initial catalog cache for movies and series in stremio-filmmakinesi-addon"
 }
