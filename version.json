@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.103",
-    "name":  "Tayflix v5.0.103",
-    "releaseDate":  "2026-10-24",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.103/TayflixSetup-v5.0.103_x64.exe",
-    "filename":  "TayflixSetup-v5.0.103_x64.exe",
-    "checksum":  "62fee1c75661347463da25c4e60c84b6ab12c84d0ff55723a4c74db22c2846b9",
-    "notes":  "* feat: Enhance FilmMakinesi and Diziyou Addons with comprehensive testing scripts\n* chore(release): bump version to v5.0.102\n* fix(sezonlukdizi): implement headless Edge session solver and native stream extraction for Turnstile bypass\n* fix(release): follow redirects and auto-create release in uploadAsset fallback\n* chore(release): bump version to v5.0.101"
+    "version":  "5.0.104",
+    "name":  "Tayflix v5.0.104",
+    "releaseDate":  "2026-10-25",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.104/TayflixSetup-v5.0.104_x64.exe",
+    "filename":  "TayflixSetup-v5.0.104_x64.exe",
+    "checksum":  "2b09ea694b39003a66d841b05fb3c224fd83c0844a0efacea5f32630ad42f67b",
+    "notes":  "* feat: Implement unified genre mapping and discovery functionality\n* feat: add SourcesMenu component to Player for stream selection\n* ## BEFORE BIG UPDATE PLAN ##\n* Refactor code structure for improved readability and maintainability\n* chore(release): bump version to v5.0.103"
 }
