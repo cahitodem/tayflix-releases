@@ -10,7 +10,7 @@ Bu depoda yalnızca uygulamanın derlenmiş resmi Windows kurulum dosyaları (`.
 
 | Platform | Dosya | Sürüm | İndirme |
 | :--- | :--- | :--- | :--- |
-| **Windows x64** | `TayflixSetup-v5.1.8_x64.exe` | **v5.1.8** | [Doğrudan İndir](https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.8/TayflixSetup-v5.1.8_x64.exe) |
+| **Windows x64** | `TayflixSetup-v5.1.9_x64.exe` | **v5.1.9** | [Doğrudan İndir](https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.9/TayflixSetup-v5.1.9_x64.exe) |
 
 Tüm geçmiş sürümler için [Releases](https://github.com/cahitodem/tayflix-releases/releases) sekmesini ziyaret edebilirsiniz.
 
