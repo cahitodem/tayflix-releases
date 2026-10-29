@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.10",
-    "name":  "Tayflix v5.1.10",
+    "version":  "5.1.11",
+    "name":  "Tayflix v5.1.11",
     "releaseDate":  "2026-10-29",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.10/TayflixSetup-v5.1.10_x64.exe",
-    "filename":  "TayflixSetup-v5.1.10_x64.exe",
-    "checksum":  "9f4ecf5f623eeb1b0964c4bff77eb35e3aaf340a4e6b51b99a329ee9a015839a",
-    "notes":  "* ### CLEANING \u0026 OPTIMIZATION v2 feat: Implement security measures for URL proxying and session handling\n* ### CLEANING \u0026 OPTIMIZATION\n* chore(release): bump version to v5.1.9\n* feat: Enhance IPTV support with selectable inputs and improved fetching logic\n* chore(release): bump version to v5.1.8"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.11/TayflixSetup-v5.1.11_x64.exe",
+    "filename":  "TayflixSetup-v5.1.11_x64.exe",
+    "checksum":  "a93627057b06f8cd6def5d45e06855b718b2aaa3c1c6fec282a0114645e891be",
+    "notes":  "* Add comprehensive E2E test suite for all 7 addons with detailed validation checks\n* chore(release): bump version to v5.1.10\n* ### CLEANING \u0026 OPTIMIZATION v2 feat: Implement security measures for URL proxying and session handling\n* ### CLEANING \u0026 OPTIMIZATION\n* chore(release): bump version to v5.1.9"
 }
