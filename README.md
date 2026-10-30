@@ -10,7 +10,7 @@ Bu depoda yalnÄ±zca uygulamanÄ±n derlenmiÅŸ resmi Windows kurulum dosyalar
 
 | Platform | Dosya | SÃ¼rÃ¼m | Ä°ndirme |
 | :--- | :--- | :--- | :--- |
-| **Windows x64** | `TayflixSetup-v5.1.13_x64.exe` | **v5.1.13** | [DoÄŸrudan Ä°ndir](https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.13/TayflixSetup-v5.1.13_x64.exe) |
+| **Windows x64** | `TayflixSetup-v5.1.14_x64.exe` | **v5.1.14** | [DoÄŸrudan Ä°ndir](https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.14/TayflixSetup-v5.1.14_x64.exe) |
 
 TÃ¼m geÃ§miÅŸ sÃ¼rÃ¼mler iÃ§in [Releases](https://github.com/cahitodem/tayflix-releases/releases) sekmesini ziyaret edebilirsiniz.
 

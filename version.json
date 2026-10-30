@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.13",
-    "name":  "Tayflix v5.1.13",
+    "version":  "5.1.14",
+    "name":  "Tayflix v5.1.14",
     "releaseDate":  "2026-10-30",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.13/TayflixSetup-v5.1.13_x64.exe",
-    "filename":  "TayflixSetup-v5.1.13_x64.exe",
-    "checksum":  "cee7e2896867a543fcc259ef910042d79a810788bd497fdcfa6fca2d073787f0",
-    "notes":  "* feat: enhance poster scoring and resolution logic\n* chore(release): bump version to v5.1.12\n* feat: enhance source deduplication and improve UI badge handling in SourcesMenu\n* chore(release): bump version to v5.1.11\n* Add comprehensive E2E test suite for all 7 addons with detailed validation checks"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.14/TayflixSetup-v5.1.14_x64.exe",
+    "filename":  "TayflixSetup-v5.1.14_x64.exe",
+    "checksum":  "cba90a4e0c13b497e3a37cca66d8e7c1a6e7a40b1db82dc5bbbbdba0ea648c93",
+    "notes":  "* feat: enhance image component with referrer policy and improve similarity calculation in search\n* chore(release): bump version to v5.1.13\n* feat: enhance poster scoring and resolution logic\n* chore(release): bump version to v5.1.12\n* feat: enhance source deduplication and improve UI badge handling in SourcesMenu"
 }
