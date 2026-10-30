@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.14",
-    "name":  "Tayflix v5.1.14",
+    "version":  "5.1.15",
+    "name":  "Tayflix v5.1.15",
     "releaseDate":  "2026-10-30",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.14/TayflixSetup-v5.1.14_x64.exe",
-    "filename":  "TayflixSetup-v5.1.14_x64.exe",
-    "checksum":  "cba90a4e0c13b497e3a37cca66d8e7c1a6e7a40b1db82dc5bbbbdba0ea648c93",
-    "notes":  "* feat: enhance image component with referrer policy and improve similarity calculation in search\n* chore(release): bump version to v5.1.13\n* feat: enhance poster scoring and resolution logic\n* chore(release): bump version to v5.1.12\n* feat: enhance source deduplication and improve UI badge handling in SourcesMenu"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.15/TayflixSetup-v5.1.15_x64.exe",
+    "filename":  "TayflixSetup-v5.1.15_x64.exe",
+    "checksum":  "31ad75a3dde643c3c6c61ec29d882cca684b868d8cf2c2837c20e52987b670ce",
+    "notes":  "* feat: implement Cinemeta HD poster fetching and enhance poster handling logic\n* chore(release): bump version to v5.1.14\n* feat: enhance image component with referrer policy and improve similarity calculation in search\n* chore(release): bump version to v5.1.13\n* feat: enhance poster scoring and resolution logic"
 }
