@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.12",
-    "name":  "Tayflix v5.1.12",
+    "version":  "5.1.13",
+    "name":  "Tayflix v5.1.13",
     "releaseDate":  "2026-10-30",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.12/TayflixSetup-v5.1.12_x64.exe",
-    "filename":  "TayflixSetup-v5.1.12_x64.exe",
-    "checksum":  "b9f618017bcea7530fc0f1b3421c156da7576f839b0de0a5306af69df63d5dc4",
-    "notes":  "* feat: enhance source deduplication and improve UI badge handling in SourcesMenu\n* chore(release): bump version to v5.1.11\n* Add comprehensive E2E test suite for all 7 addons with detailed validation checks\n* chore(release): bump version to v5.1.10\n* ### CLEANING \u0026 OPTIMIZATION v2 feat: Implement security measures for URL proxying and session handling"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.13/TayflixSetup-v5.1.13_x64.exe",
+    "filename":  "TayflixSetup-v5.1.13_x64.exe",
+    "checksum":  "cee7e2896867a543fcc259ef910042d79a810788bd497fdcfa6fca2d073787f0",
+    "notes":  "* feat: enhance poster scoring and resolution logic\n* chore(release): bump version to v5.1.12\n* feat: enhance source deduplication and improve UI badge handling in SourcesMenu\n* chore(release): bump version to v5.1.11\n* Add comprehensive E2E test suite for all 7 addons with detailed validation checks"
 }
