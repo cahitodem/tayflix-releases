@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.19",
-    "name":  "Tayflix v5.1.19",
+    "version":  "5.1.20",
+    "name":  "Tayflix v5.1.20",
     "releaseDate":  "2026-10-31",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.19/TayflixSetup-v5.1.19_x64.exe",
-    "filename":  "TayflixSetup-v5.1.19_x64.exe",
-    "checksum":  "0cda97dca5c646471b3cc66c2e592aaa231b008bb71e6aba9d2276f152ab9d9a",
-    "notes":  "* feat: Enhance unified discover functionality with auto-fill deficit handling\n* feat: Implement Continue Watching feature with carousel display\n* chore(release): bump version to v5.1.18\n* feat(Player): Enhance stream fallback logic and improve state management\n* feat: update proxy request headers to include referer and origin; modify MPV settings for improved performance"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.20/TayflixSetup-v5.1.20_x64.exe",
+    "filename":  "TayflixSetup-v5.1.20_x64.exe",
+    "checksum":  "b94b23fda0431e8e47d565ce58d121170af54937a346440d6f9da137b9f94401",
+    "notes":  "* feat: Enhance Board and Search components with caching and improved similarity calculations\n* chore(release): bump version to v5.1.19\n* feat: Enhance unified discover functionality with auto-fill deficit handling\n* feat: Implement Continue Watching feature with carousel display\n* chore(release): bump version to v5.1.18"
 }
