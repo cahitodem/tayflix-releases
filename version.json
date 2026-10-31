@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.17",
-    "name":  "Tayflix v5.1.17",
+    "version":  "5.1.18",
+    "name":  "Tayflix v5.1.18",
     "releaseDate":  "2026-10-31",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.17/TayflixSetup-v5.1.17_x64.exe",
-    "filename":  "TayflixSetup-v5.1.17_x64.exe",
-    "checksum":  "2ae1524921e201e370de30df3d37141328b47a911a02dcf098d1022c1e4a2e95",
-    "notes":  "* Refactor code structure for improved readability and maintainability\n* chore(release): bump version to v5.1.16\n* feat: enhance streamProxy with referer handling and add comprehensive QA tests\n* chore(release): bump version to v5.1.15\n* feat: implement Cinemeta HD poster fetching and enhance poster handling logic"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.18/TayflixSetup-v5.1.18_x64.exe",
+    "filename":  "TayflixSetup-v5.1.18_x64.exe",
+    "checksum":  "865b59016afef339bd2b7ae4ceb44e5ba16f68c4356b96a810beed34bcef6d09",
+    "notes":  "* feat(Player): Enhance stream fallback logic and improve state management\n* feat: update proxy request headers to include referer and origin; modify MPV settings for improved performance\n* chore(release): bump version to v5.1.17\n* Refactor code structure for improved readability and maintainability\n* chore(release): bump version to v5.1.16"
 }
