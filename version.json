@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.21",
-    "name":  "Tayflix v5.1.21",
+    "version":  "5.1.22",
+    "name":  "Tayflix v5.1.22",
     "releaseDate":  "2026-11-03",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.21/TayflixSetup-v5.1.21_x64.exe",
-    "filename":  "TayflixSetup-v5.1.21_x64.exe",
-    "checksum":  "67d0c0bd7132cbb3c1400a3a787926ebecfecb00304b0ddb02f3685a5a44bc5e",
-    "notes":  "* ## NEW CATALOG Add comprehensive end-to-end tests for Tier 4 user journeys and unit tests for shared cache operations\n* ### SISTEM DEGISIMI ###\n* chore(release): bump version to v5.1.20\n* feat: Enhance Board and Search components with caching and improved similarity calculations\n* chore(release): bump version to v5.1.19"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.22/TayflixSetup-v5.1.22_x64.exe",
+    "filename":  "TayflixSetup-v5.1.22_x64.exe",
+    "checksum":  "951452ba33b4b74e00e2450fb1162b5aa883b5200364e326033a93b205b56081",
+    "notes":  "* feat: Add DiziPal addon with updated ports and genre mappings\n* chore(release): bump version to v5.1.21\n* ## NEW CATALOG Add comprehensive end-to-end tests for Tier 4 user journeys and unit tests for shared cache operations\n* ### SISTEM DEGISIMI ###\n* chore(release): bump version to v5.1.20"
 }
