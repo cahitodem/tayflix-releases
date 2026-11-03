@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.23",
-    "name":  "Tayflix v5.1.23",
+    "version":  "5.1.24",
+    "name":  "Tayflix v5.1.24",
     "releaseDate":  "2026-11-03",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.23/TayflixSetup-v5.1.23_x64.exe",
-    "filename":  "TayflixSetup-v5.1.23_x64.exe",
-    "checksum":  "d1d516d3ce1499df2a5ba89956c44b438af612e08e5f6e1c9831c1c46c15f8db",
-    "notes":  "* feat: add audio delay settings to AudioMenu\n* chore(release): bump version to v5.1.22\n* feat: Add DiziPal addon with updated ports and genre mappings\n* chore(release): bump version to v5.1.21\n* ## NEW CATALOG Add comprehensive end-to-end tests for Tier 4 user journeys and unit tests for shared cache operations"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.24/TayflixSetup-v5.1.24_x64.exe",
+    "filename":  "TayflixSetup-v5.1.24_x64.exe",
+    "checksum":  "14f6cc8c744e10c26d9386b8662fc496030404f8a8cd38857aba4ce23e8d3690",
+    "notes":  "* feat: add DiziPal addon for Stremio with server implementation\n* chore(release): bump version to v5.1.23\n* feat: add audio delay settings to AudioMenu\n* chore(release): bump version to v5.1.22\n* feat: Add DiziPal addon with updated ports and genre mappings"
 }
