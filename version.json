@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.20",
-    "name":  "Tayflix v5.1.20",
-    "releaseDate":  "2026-10-31",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.20/TayflixSetup-v5.1.20_x64.exe",
-    "filename":  "TayflixSetup-v5.1.20_x64.exe",
-    "checksum":  "b94b23fda0431e8e47d565ce58d121170af54937a346440d6f9da137b9f94401",
-    "notes":  "* feat: Enhance Board and Search components with caching and improved similarity calculations\n* chore(release): bump version to v5.1.19\n* feat: Enhance unified discover functionality with auto-fill deficit handling\n* feat: Implement Continue Watching feature with carousel display\n* chore(release): bump version to v5.1.18"
+    "version":  "5.1.21",
+    "name":  "Tayflix v5.1.21",
+    "releaseDate":  "2026-11-03",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.21/TayflixSetup-v5.1.21_x64.exe",
+    "filename":  "TayflixSetup-v5.1.21_x64.exe",
+    "checksum":  "67d0c0bd7132cbb3c1400a3a787926ebecfecb00304b0ddb02f3685a5a44bc5e",
+    "notes":  "* ## NEW CATALOG Add comprehensive end-to-end tests for Tier 4 user journeys and unit tests for shared cache operations\n* ### SISTEM DEGISIMI ###\n* chore(release): bump version to v5.1.20\n* feat: Enhance Board and Search components with caching and improved similarity calculations\n* chore(release): bump version to v5.1.19"
 }
