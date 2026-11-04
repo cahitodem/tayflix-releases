@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.24",
-    "name":  "Tayflix v5.1.24",
-    "releaseDate":  "2026-11-03",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.24/TayflixSetup-v5.1.24_x64.exe",
-    "filename":  "TayflixSetup-v5.1.24_x64.exe",
-    "checksum":  "14f6cc8c744e10c26d9386b8662fc496030404f8a8cd38857aba4ce23e8d3690",
-    "notes":  "* feat: add DiziPal addon for Stremio with server implementation\n* chore(release): bump version to v5.1.23\n* feat: add audio delay settings to AudioMenu\n* chore(release): bump version to v5.1.22\n* feat: Add DiziPal addon with updated ports and genre mappings"
+    "version":  "5.1.25",
+    "name":  "Tayflix v5.1.25",
+    "releaseDate":  "2026-11-04",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.25/TayflixSetup-v5.1.25_x64.exe",
+    "filename":  "TayflixSetup-v5.1.25_x64.exe",
+    "checksum":  "3aef756d32342a0ead9dbeaf146fa62a4f5275021fcb0ee597639c54fc8fa175",
+    "notes":  "* feat: Increase LRU cache limit to 100MB and implement in-flight request deduplication\n* chore(release): bump version to v5.1.24\n* feat: add DiziPal addon for Stremio with server implementation\n* chore(release): bump version to v5.1.23\n* feat: add audio delay settings to AudioMenu"
 }
