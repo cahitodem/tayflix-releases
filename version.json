@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.27",
-    "name":  "Tayflix v5.1.27",
-    "releaseDate":  "2026-11-05",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.27/TayflixSetup-v5.1.27_x64.exe",
-    "filename":  "TayflixSetup-v5.1.27_x64.exe",
-    "checksum":  "38388d6b48e9803bca091b138099432ff1fd877683495791b2dc4ed9621fdbb2",
-    "notes":  "* feat: implement multi-tier shared cache for Vercel serverless deployment\n* chore(release): bump version to v5.1.26\n* feat: Update process handling in release script and optimize worker allocation in webpack config\n* feat: Enhance DiziPal integration and improve genre handling\n* Refactor code structure for improved readability and maintainability"
+    "version":  "5.1.28",
+    "name":  "Tayflix v5.1.28",
+    "releaseDate":  "2026-11-12",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.28/TayflixSetup-v5.1.28_x64.exe",
+    "filename":  "TayflixSetup-v5.1.28_x64.exe",
+    "checksum":  "7d904c82170b0ef7e17d2a34b5e28e0852edb4b59671585486d58187490732f2",
+    "notes":  "* Add tier 4 test scenarios for pagination, platform switching, genre handling, autoplay, SSRF protection, and session resolution\n* feat(player): preserve IPTV invariant while supporting race engine prefetch\n* chore(release): bump version to v5.1.27\n* feat: implement multi-tier shared cache for Vercel serverless deployment\n* chore(release): bump version to v5.1.26"
 }
