@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.28",
-    "name":  "Tayflix v5.1.28",
-    "releaseDate":  "2026-11-12",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.28/TayflixSetup-v5.1.28_x64.exe",
-    "filename":  "TayflixSetup-v5.1.28_x64.exe",
-    "checksum":  "7d904c82170b0ef7e17d2a34b5e28e0852edb4b59671585486d58187490732f2",
-    "notes":  "* Add tier 4 test scenarios for pagination, platform switching, genre handling, autoplay, SSRF protection, and session resolution\n* feat(player): preserve IPTV invariant while supporting race engine prefetch\n* chore(release): bump version to v5.1.27\n* feat: implement multi-tier shared cache for Vercel serverless deployment\n* chore(release): bump version to v5.1.26"
+    "version":  "5.1.29",
+    "name":  "Tayflix v5.1.29",
+    "releaseDate":  "2026-11-17",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.29/TayflixSetup-v5.1.29_x64.exe",
+    "filename":  "TayflixSetup-v5.1.29_x64.exe",
+    "checksum":  "85517cb3c2d2f7cccf32b07507e227d9fd5c8d383369735520e3c1b485623ceb",
+    "notes":  "* feat: Add CoreSuspenderErrorBoundary for improved error handling in CoreSuspender\n* feat: add route settings styles and update version to 5.1.28\n* chore(release): bump version to v5.1.28\n* Add tier 4 test scenarios for pagination, platform switching, genre handling, autoplay, SSRF protection, and session resolution\n* feat(player): preserve IPTV invariant while supporting race engine prefetch"
 }
