@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.37",
-    "name":  "Tayflix v5.1.37",
+    "version":  "5.1.38",
+    "name":  "Tayflix v5.1.38",
     "releaseDate":  "2026-11-19",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.37/TayflixSetup-v5.1.37_x64.exe",
-    "filename":  "TayflixSetup-v5.1.37_x64.exe",
-    "checksum":  "923b279d0219c7eb1a32fc8bc1142f1d0fec9eb156031b4e81c5edfdbbe8f2da",
-    "notes":  "* fix: Enhance process termination in release script and update addon exclusion patterns\n* feat(filmmakinesi): add dynamic iframe player bridge for cloudflare embed resolution\n* feat: Implement network testing script with WebSocket and iframe integration\n* chore(release): bump version to v5.1.36\n* fix: Update referer URLs and asset links across multiple addons"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.38/TayflixSetup-v5.1.38_x64.exe",
+    "filename":  "TayflixSetup-v5.1.38_x64.exe",
+    "checksum":  "3c0f0d80b3bc86071dad64cc850e9070e64604cb45b1e8c49155a37ffbf4cd84",
+    "notes":  "* feat: Add Addon Status Chips component for improved addon management and health display\n* chore(release): bump version to v5.1.37\n* fix: Enhance process termination in release script and update addon exclusion patterns\n* feat(filmmakinesi): add dynamic iframe player bridge for cloudflare embed resolution\n* feat: Implement network testing script with WebSocket and iframe integration"
 }
