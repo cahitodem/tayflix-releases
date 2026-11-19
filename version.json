@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.32",
-    "name":  "Tayflix v5.1.32",
+    "version":  "5.1.33",
+    "name":  "Tayflix v5.1.33",
     "releaseDate":  "2026-11-19",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.32/TayflixSetup-v5.1.32_x64.exe",
-    "filename":  "TayflixSetup-v5.1.32_x64.exe",
-    "checksum":  "03cfa37f97fd95aff806278583dfbe149c1c356a32e89a7edd6ba655bc5383c6",
-    "notes":  "* feat: Add id_resolver_cache.json for series metadata storage\n* feat: Enhance stream fetching with multiple Turkish dubbed and subtitled options, and improve server runtime resolution logic\n* feat: Update addon resource structure and enhance cluster source handling in MetaDetails\n* feat: Refactor play/pause request handlers with debouncing for improved performance\n* chore(release): bump version to v5.1.31"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.33/TayflixSetup-v5.1.33_x64.exe",
+    "filename":  "TayflixSetup-v5.1.33_x64.exe",
+    "checksum":  "dc0220fa8370095a56c2c1692f694d50796ea73a5c5e457fb34057ce912bd634",
+    "notes":  "* feat: Implement Cloudflare block detection and genre validation logic, add unit tests\n* chore(release): bump version to v5.1.32\n* feat: Add id_resolver_cache.json for series metadata storage\n* feat: Enhance stream fetching with multiple Turkish dubbed and subtitled options, and improve server runtime resolution logic\n* feat: Update addon resource structure and enhance cluster source handling in MetaDetails"
 }
