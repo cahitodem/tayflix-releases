@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.41",
-    "name":  "Tayflix v5.1.41",
+    "version":  "5.1.42",
+    "name":  "Tayflix v5.1.42",
     "releaseDate":  "2026-11-19",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.41/TayflixSetup-v5.1.41_x64.exe",
-    "filename":  "TayflixSetup-v5.1.41_x64.exe",
-    "checksum":  "d64fcd0428680ae50ff0610d5acad58737c7f900ecdecdf041ce6eb603aca5ae",
-    "notes":  "* docs(memory): register verified pitfalls for streamProxy, scrapers, MetaDetails, and Player\n* fix(system): resolve diagnostic playback, proxy, network, and client timeouts\n* chore(release): bump version to v5.1.40\n* feat: enhance Turnstile handling and cookie management in browserBridge and scraper modules\n* chore(release): bump version to v5.1.39"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.42/TayflixSetup-v5.1.42_x64.exe",
+    "filename":  "TayflixSetup-v5.1.42_x64.exe",
+    "checksum":  "92d5aabedab60eec817493b21266aaac6f8998f9a83c246e377f8938402c46ea",
+    "notes":  "* fix(filmmakinesi): eliminate chrome window/tab explosion, force headless=new and cdp network stream extraction\n* chore(release): bump version to v5.1.41\n* docs(memory): register verified pitfalls for streamProxy, scrapers, MetaDetails, and Player\n* fix(system): resolve diagnostic playback, proxy, network, and client timeouts\n* chore(release): bump version to v5.1.40"
 }
