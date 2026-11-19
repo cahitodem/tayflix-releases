@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.30",
-    "name":  "Tayflix v5.1.30",
-    "releaseDate":  "2026-11-18",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.30/TayflixSetup-v5.1.30_x64.exe",
-    "filename":  "TayflixSetup-v5.1.30_x64.exe",
-    "checksum":  "51827cc985a33c25d839d0866bc86f4c159bb17b04c9ba373e489a45f4e38022",
-    "notes":  "* Add comprehensive unit tests for player lifecycle bugs (BUG-01 to BUG-09)\n* chore(release): bump version to v5.1.29\n* feat: Add CoreSuspenderErrorBoundary for improved error handling in CoreSuspender\n* feat: add route settings styles and update version to 5.1.28\n* chore(release): bump version to v5.1.28"
+    "version":  "5.1.31",
+    "name":  "Tayflix v5.1.31",
+    "releaseDate":  "2026-11-19",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.31/TayflixSetup-v5.1.31_x64.exe",
+    "filename":  "TayflixSetup-v5.1.31_x64.exe",
+    "checksum":  "112eae442402a372807fa1dbb0e9146f059d743810f4bf96cd3f1008d4046910",
+    "notes":  "* feat: Enhance SSRF protection and add fallback for local desktop in fetchAddonPage\n* chore(release): bump version to v5.1.30\n* Add comprehensive unit tests for player lifecycle bugs (BUG-01 to BUG-09)\n* chore(release): bump version to v5.1.29\n* feat: Add CoreSuspenderErrorBoundary for improved error handling in CoreSuspender"
 }
