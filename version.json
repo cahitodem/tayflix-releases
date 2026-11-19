@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.36",
-    "name":  "Tayflix v5.1.36",
+    "version":  "5.1.37",
+    "name":  "Tayflix v5.1.37",
     "releaseDate":  "2026-11-19",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.36/TayflixSetup-v5.1.36_x64.exe",
-    "filename":  "TayflixSetup-v5.1.36_x64.exe",
-    "checksum":  "cbf590b6f7d4edb82f8ef7f8a61ae977d454ecb9ac968af51a98534e11c5f0b5",
-    "notes":  "* fix: Update referer URLs and asset links across multiple addons\n* Refactor DiziPal and FilmMakinesi Addons\n* feat: Update paths in tests and add AGENTS.md for project guidelines\n* chore(release): bump version to v5.1.34\n* feat: Update film and series entries in catalog cache, add new titles and remove outdated ones"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.37/TayflixSetup-v5.1.37_x64.exe",
+    "filename":  "TayflixSetup-v5.1.37_x64.exe",
+    "checksum":  "923b279d0219c7eb1a32fc8bc1142f1d0fec9eb156031b4e81c5edfdbbe8f2da",
+    "notes":  "* fix: Enhance process termination in release script and update addon exclusion patterns\n* feat(filmmakinesi): add dynamic iframe player bridge for cloudflare embed resolution\n* feat: Implement network testing script with WebSocket and iframe integration\n* chore(release): bump version to v5.1.36\n* fix: Update referer URLs and asset links across multiple addons"
 }
