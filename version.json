@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.33",
-    "name":  "Tayflix v5.1.33",
+    "version":  "5.1.34",
+    "name":  "Tayflix v5.1.34",
     "releaseDate":  "2026-11-19",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.33/TayflixSetup-v5.1.33_x64.exe",
-    "filename":  "TayflixSetup-v5.1.33_x64.exe",
-    "checksum":  "dc0220fa8370095a56c2c1692f694d50796ea73a5c5e457fb34057ce912bd634",
-    "notes":  "* feat: Implement Cloudflare block detection and genre validation logic, add unit tests\n* chore(release): bump version to v5.1.32\n* feat: Add id_resolver_cache.json for series metadata storage\n* feat: Enhance stream fetching with multiple Turkish dubbed and subtitled options, and improve server runtime resolution logic\n* feat: Update addon resource structure and enhance cluster source handling in MetaDetails"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.34/TayflixSetup-v5.1.34_x64.exe",
+    "filename":  "TayflixSetup-v5.1.34_x64.exe",
+    "checksum":  "1d0a8c2e9ad027dce7e4af7165b057a226ec3bb6fc7b0cf820abd2cc3b1949d7",
+    "notes":  "* feat: Update film and series entries in catalog cache, add new titles and remove outdated ones\n* Remove vercel.json configuration file and associated rewrites\n* feat: Add loadingCount variable to optimize stream loading logic\n* chore(release): bump version to v5.1.33\n* feat: Implement Cloudflare block detection and genre validation logic, add unit tests"
 }
