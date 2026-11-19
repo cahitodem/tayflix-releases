@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.31",
-    "name":  "Tayflix v5.1.31",
+    "version":  "5.1.32",
+    "name":  "Tayflix v5.1.32",
     "releaseDate":  "2026-11-19",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.31/TayflixSetup-v5.1.31_x64.exe",
-    "filename":  "TayflixSetup-v5.1.31_x64.exe",
-    "checksum":  "112eae442402a372807fa1dbb0e9146f059d743810f4bf96cd3f1008d4046910",
-    "notes":  "* feat: Enhance SSRF protection and add fallback for local desktop in fetchAddonPage\n* chore(release): bump version to v5.1.30\n* Add comprehensive unit tests for player lifecycle bugs (BUG-01 to BUG-09)\n* chore(release): bump version to v5.1.29\n* feat: Add CoreSuspenderErrorBoundary for improved error handling in CoreSuspender"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.32/TayflixSetup-v5.1.32_x64.exe",
+    "filename":  "TayflixSetup-v5.1.32_x64.exe",
+    "checksum":  "03cfa37f97fd95aff806278583dfbe149c1c356a32e89a7edd6ba655bc5383c6",
+    "notes":  "* feat: Add id_resolver_cache.json for series metadata storage\n* feat: Enhance stream fetching with multiple Turkish dubbed and subtitled options, and improve server runtime resolution logic\n* feat: Update addon resource structure and enhance cluster source handling in MetaDetails\n* feat: Refactor play/pause request handlers with debouncing for improved performance\n* chore(release): bump version to v5.1.31"
 }
