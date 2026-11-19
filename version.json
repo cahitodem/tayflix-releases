@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.40",
-    "name":  "Tayflix v5.1.40",
+    "version":  "5.1.41",
+    "name":  "Tayflix v5.1.41",
     "releaseDate":  "2026-11-19",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.40/TayflixSetup-v5.1.40_x64.exe",
-    "filename":  "TayflixSetup-v5.1.40_x64.exe",
-    "checksum":  "987c794d5d0eb706f35f0a309e240559da84c46d1b0544cad7d46f6c91e331f8",
-    "notes":  "* feat: enhance Turnstile handling and cookie management in browserBridge and scraper modules\n* chore(release): bump version to v5.1.39\n* fix: update diziyou domain references and enhance slug filtering\n* chore(release): bump version to v5.1.38\n* feat: Add Addon Status Chips component for improved addon management and health display"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.41/TayflixSetup-v5.1.41_x64.exe",
+    "filename":  "TayflixSetup-v5.1.41_x64.exe",
+    "checksum":  "d64fcd0428680ae50ff0610d5acad58737c7f900ecdecdf041ce6eb603aca5ae",
+    "notes":  "* docs(memory): register verified pitfalls for streamProxy, scrapers, MetaDetails, and Player\n* fix(system): resolve diagnostic playback, proxy, network, and client timeouts\n* chore(release): bump version to v5.1.40\n* feat: enhance Turnstile handling and cookie management in browserBridge and scraper modules\n* chore(release): bump version to v5.1.39"
 }
