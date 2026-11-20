@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.42",
-    "name":  "Tayflix v5.1.42",
-    "releaseDate":  "2026-11-19",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.42/TayflixSetup-v5.1.42_x64.exe",
-    "filename":  "TayflixSetup-v5.1.42_x64.exe",
-    "checksum":  "92d5aabedab60eec817493b21266aaac6f8998f9a83c246e377f8938402c46ea",
-    "notes":  "* fix(filmmakinesi): eliminate chrome window/tab explosion, force headless=new and cdp network stream extraction\n* chore(release): bump version to v5.1.41\n* docs(memory): register verified pitfalls for streamProxy, scrapers, MetaDetails, and Player\n* fix(system): resolve diagnostic playback, proxy, network, and client timeouts\n* chore(release): bump version to v5.1.40"
+    "version":  "5.1.43",
+    "name":  "Tayflix v5.1.43",
+    "releaseDate":  "2026-11-20",
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.43/TayflixSetup-v5.1.43_x64.exe",
+    "filename":  "TayflixSetup-v5.1.43_x64.exe",
+    "checksum":  "5858020edcc2cc1ad5d8db7d75e02eafd714ffa7f62cd30f211b251c77777f93",
+    "notes":  "* feat(core): harden browser bridge, addons hub resilience, and player fast-fail watchdog [subagent:orchestrator]\n* chore(release): bump version to v5.1.42\n* fix(filmmakinesi): eliminate chrome window/tab explosion, force headless=new and cdp network stream extraction\n* chore(release): bump version to v5.1.41\n* docs(memory): register verified pitfalls for streamProxy, scrapers, MetaDetails, and Player"
 }
