@@ -1,9 +1,9 @@
 {
-    "version":  "5.0.104",
-    "name":  "Tayflix v5.0.104",
+    "version":  "5.1.56",
+    "name":  "Tayflix v5.1.56",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.0.104/TayflixSetup-v5.0.104_x64.exe",
-    "filename":  "TayflixSetup-v5.0.104_x64.exe",
-    "checksum":  "927a235fafa856a1a3072bc03f533ba886fef66a326dcdfbf0cc37b2de588b4b",
-    "notes":  "* ## BEFORE BIG UPDATE PLAN ##\n* Refactor code structure for improved readability and maintainability\n* chore(release): bump version to v5.0.103\n* feat: Enhance FilmMakinesi and Diziyou Addons with comprehensive testing scripts\n* chore(release): bump version to v5.0.102"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.56/TayflixSetup-v5.1.56_x64.exe",
+    "filename":  "TayflixSetup-v5.1.56_x64.exe",
+    "checksum":  "efeab9cc0c89bd3ba93bdd35e2b6563a5f28258c4a83e90b96fe5a7aee08d1b5",
+    "notes":  "* ## Dizipal \u0026 Dizilla Update\n* chore(release): bump version to v5.1.55\n* feat: Implement cookie management and automated browser bridge for Cloudflare clearance handling\n* chore(release): bump version to v5.1.54\n* Delete obsolete files and documentation for teamwork workers in Milestone 4 and remediation tasks, including DISPATCH.md, progress.md, BRIEFING.md, and handoff.md. Remove progress tracking and context for completed audit findings remediation."
 }
