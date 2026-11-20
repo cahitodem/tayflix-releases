@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.50",
-    "name":  "Tayflix v5.1.50",
+    "version":  "5.1.51",
+    "name":  "Tayflix v5.1.51",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.50/TayflixSetup-v5.1.50_x64.exe",
-    "filename":  "TayflixSetup-v5.1.50_x64.exe",
-    "checksum":  "dc321a743a69040e85c6fd69ae149500c6351470f2c94d4cb8bd69b19992dfc1",
-    "notes":  "* feat: Initialize Dizilla Stremio Addon with core server functionality and testing suite\n* chore(release): bump version to v5.1.49\n* feat: integrate shared cache for slug-to-IMDb mapping and enhance stream fetching logic\n* chore(release): bump version to v5.1.48\n* feat: enhance DiziPal addon with improved genre options, pagination, and trailer search functionality"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.51/TayflixSetup-v5.1.51_x64.exe",
+    "filename":  "TayflixSetup-v5.1.51_x64.exe",
+    "checksum":  "82c28439424e6d7a2dfa0fa8b85fbba3d6932226308200574128d7a9c91b9433",
+    "notes":  "* feat: Add Dizilla addon with static manifest and integrate into the application\n* chore(release): bump version to v5.1.50\n* feat: Initialize Dizilla Stremio Addon with core server functionality and testing suite\n* chore(release): bump version to v5.1.49\n* feat: integrate shared cache for slug-to-IMDb mapping and enhance stream fetching logic"
 }
