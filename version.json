@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.58",
-    "name":  "Tayflix v5.1.58",
+    "version":  "5.1.59",
+    "name":  "Tayflix v5.1.59",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.58/TayflixSetup-v5.1.58_x64.exe",
-    "filename":  "TayflixSetup-v5.1.58_x64.exe",
-    "checksum":  "48801edb114630a1c2dd9ded57ac6d48e83604ee309bc95bc7f055db41f73a4d",
-    "notes":  "* feat: enhance browser interaction and add stream capture functionality\n* Add dependencies for express and stremio-addon-sdk; remove UV_THREADPOOL_SIZE setting\n* fix(core): add app_root fallback for server paths and correct ws module require in browserBridge\n* chore(release): bump version to v5.1.57\n* feat: update version to 5.1.56 across project files and enhance process management in release script"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.59/TayflixSetup-v5.1.59_x64.exe",
+    "filename":  "TayflixSetup-v5.1.59_x64.exe",
+    "checksum":  "4ef741cb9927bc203fde49b5628f42851aff00fcfbad36760875568b8ec3959e",
+    "notes":  "* feat: implement Pichive NP_GATE proof-of-work resolver and enhance playlist fetching with curl support\n* chore(release): bump version to v5.1.58\n* feat: enhance browser interaction and add stream capture functionality\n* Add dependencies for express and stremio-addon-sdk; remove UV_THREADPOOL_SIZE setting\n* fix(core): add app_root fallback for server paths and correct ws module require in browserBridge"
 }
