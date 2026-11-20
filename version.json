@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.54",
-    "name":  "Tayflix v5.1.54",
+    "version":  "5.1.55",
+    "name":  "Tayflix v5.1.55",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.54/TayflixSetup-v5.1.54_x64.exe",
-    "filename":  "TayflixSetup-v5.1.54_x64.exe",
-    "checksum":  "e811e722f25bd4acd9729b827f033feebc838b38b569d7a6bd25fae319f9e838",
-    "notes":  "* Delete obsolete files and documentation for teamwork workers in Milestone 4 and remediation tasks, including DISPATCH.md, progress.md, BRIEFING.md, and handoff.md. Remove progress tracking and context for completed audit findings remediation.\n* chore(release): bump version to v5.1.53\n* feat: Implement fallback sources for 403 errors in stream proxy\n* Add initial id_resolver_cache.json for The White Lotus\n* feat: Remove info banner and stream subtitle from SourcesMenu component"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.55/TayflixSetup-v5.1.55_x64.exe",
+    "filename":  "TayflixSetup-v5.1.55_x64.exe",
+    "checksum":  "ad1b7e91631b524f7988c91ecbcd0e7bf13a6ff008d5c8670f370f8025ee0993",
+    "notes":  "* feat: Implement cookie management and automated browser bridge for Cloudflare clearance handling\n* chore(release): bump version to v5.1.54\n* Delete obsolete files and documentation for teamwork workers in Milestone 4 and remediation tasks, including DISPATCH.md, progress.md, BRIEFING.md, and handoff.md. Remove progress tracking and context for completed audit findings remediation.\n* chore(release): bump version to v5.1.53\n* feat: Implement fallback sources for 403 errors in stream proxy"
 }
