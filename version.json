@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.47",
-    "name":  "Tayflix v5.1.47",
+    "version":  "5.1.48",
+    "name":  "Tayflix v5.1.48",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.47/TayflixSetup-v5.1.47_x64.exe",
-    "filename":  "TayflixSetup-v5.1.47_x64.exe",
-    "checksum":  "287a993df0a309e235c8da8658131c2cc5e673a62481738c5a011b526561ad59",
-    "notes":  "* refactor: remove deprecated addons and update addon references across the application\n* chore(release): bump version to v5.1.46\n* feat: add stremio-sezonlukdizi-addon with initial implementation\n* chore(release): bump version to v5.1.45\n* feat: Implement HLS Stream Proxy with Prefetching and Caching"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.48/TayflixSetup-v5.1.48_x64.exe",
+    "filename":  "TayflixSetup-v5.1.48_x64.exe",
+    "checksum":  "c2c6f35812e1eba40241ac671d5c09e672030b61f440bca29cbe304fbdbb5f93",
+    "notes":  "* feat: enhance DiziPal addon with improved genre options, pagination, and trailer search functionality\n* feat: update genre handling and pagination for Diziyou and Seflix addons\n* feat: update Diziyou addon to version 1.1.1 with new CDN links and poster handling improvements\n* chore(release): bump version to v5.1.47\n* refactor: remove deprecated addons and update addon references across the application"
 }
