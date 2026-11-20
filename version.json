@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.57",
-    "name":  "Tayflix v5.1.57",
+    "version":  "5.1.58",
+    "name":  "Tayflix v5.1.58",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.57/TayflixSetup-v5.1.57_x64.exe",
-    "filename":  "TayflixSetup-v5.1.57_x64.exe",
-    "checksum":  "07ca32126b3051dbd89cdd60cbe2f1776ecaef9600739f8246329fd88b90a5d2",
-    "notes":  "* feat: update version to 5.1.56 across project files and enhance process management in release script\n* chore(release): bump version to v5.0.104\n* ## BEFORE BIG UPDATE PLAN ##\n* Refactor code structure for improved readability and maintainability\n* chore(release): bump version to v5.0.103"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.58/TayflixSetup-v5.1.58_x64.exe",
+    "filename":  "TayflixSetup-v5.1.58_x64.exe",
+    "checksum":  "48801edb114630a1c2dd9ded57ac6d48e83604ee309bc95bc7f055db41f73a4d",
+    "notes":  "* feat: enhance browser interaction and add stream capture functionality\n* Add dependencies for express and stremio-addon-sdk; remove UV_THREADPOOL_SIZE setting\n* fix(core): add app_root fallback for server paths and correct ws module require in browserBridge\n* chore(release): bump version to v5.1.57\n* feat: update version to 5.1.56 across project files and enhance process management in release script"
 }
