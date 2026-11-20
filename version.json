@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.44",
-    "name":  "Tayflix v5.1.44",
+    "version":  "5.1.45",
+    "name":  "Tayflix v5.1.45",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.44/TayflixSetup-v5.1.44_x64.exe",
-    "filename":  "TayflixSetup-v5.1.44_x64.exe",
-    "checksum":  "cf80974d9f76be400eb21a0bb2dbd2b7d8b9d01b7b8c270983d869849f5f2fcc",
-    "notes":  "* feat(inspect): add HTML inspection for secureData and player sources\n* fix(addons): resolve stream timeouts, App Router RSC crypto and dizipal catalog filters\n* chore(release): bump version to v5.1.43\n* feat(core): harden browser bridge, addons hub resilience, and player fast-fail watchdog [subagent:orchestrator]\n* chore(release): bump version to v5.1.42"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.45/TayflixSetup-v5.1.45_x64.exe",
+    "filename":  "TayflixSetup-v5.1.45_x64.exe",
+    "checksum":  "f9e013aeb63ea6dc61a7d7a17bedbeac9531e59b10cbc7c2fd0e94afc3b6e968",
+    "notes":  "* feat: Implement HLS Stream Proxy with Prefetching and Caching\n* chore(release): bump version to v5.1.44\n* feat(inspect): add HTML inspection for secureData and player sources\n* fix(addons): resolve stream timeouts, App Router RSC crypto and dizipal catalog filters\n* chore(release): bump version to v5.1.43"
 }
