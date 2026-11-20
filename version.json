@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.56",
-    "name":  "Tayflix v5.1.56",
+    "version":  "5.1.57",
+    "name":  "Tayflix v5.1.57",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.56/TayflixSetup-v5.1.56_x64.exe",
-    "filename":  "TayflixSetup-v5.1.56_x64.exe",
-    "checksum":  "efeab9cc0c89bd3ba93bdd35e2b6563a5f28258c4a83e90b96fe5a7aee08d1b5",
-    "notes":  "* ## Dizipal \u0026 Dizilla Update\n* chore(release): bump version to v5.1.55\n* feat: Implement cookie management and automated browser bridge for Cloudflare clearance handling\n* chore(release): bump version to v5.1.54\n* Delete obsolete files and documentation for teamwork workers in Milestone 4 and remediation tasks, including DISPATCH.md, progress.md, BRIEFING.md, and handoff.md. Remove progress tracking and context for completed audit findings remediation."
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.57/TayflixSetup-v5.1.57_x64.exe",
+    "filename":  "TayflixSetup-v5.1.57_x64.exe",
+    "checksum":  "07ca32126b3051dbd89cdd60cbe2f1776ecaef9600739f8246329fd88b90a5d2",
+    "notes":  "* feat: update version to 5.1.56 across project files and enhance process management in release script\n* chore(release): bump version to v5.0.104\n* ## BEFORE BIG UPDATE PLAN ##\n* Refactor code structure for improved readability and maintainability\n* chore(release): bump version to v5.0.103"
 }
