@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.43",
-    "name":  "Tayflix v5.1.43",
+    "version":  "5.1.44",
+    "name":  "Tayflix v5.1.44",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.43/TayflixSetup-v5.1.43_x64.exe",
-    "filename":  "TayflixSetup-v5.1.43_x64.exe",
-    "checksum":  "5858020edcc2cc1ad5d8db7d75e02eafd714ffa7f62cd30f211b251c77777f93",
-    "notes":  "* feat(core): harden browser bridge, addons hub resilience, and player fast-fail watchdog [subagent:orchestrator]\n* chore(release): bump version to v5.1.42\n* fix(filmmakinesi): eliminate chrome window/tab explosion, force headless=new and cdp network stream extraction\n* chore(release): bump version to v5.1.41\n* docs(memory): register verified pitfalls for streamProxy, scrapers, MetaDetails, and Player"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.44/TayflixSetup-v5.1.44_x64.exe",
+    "filename":  "TayflixSetup-v5.1.44_x64.exe",
+    "checksum":  "cf80974d9f76be400eb21a0bb2dbd2b7d8b9d01b7b8c270983d869849f5f2fcc",
+    "notes":  "* feat(inspect): add HTML inspection for secureData and player sources\n* fix(addons): resolve stream timeouts, App Router RSC crypto and dizipal catalog filters\n* chore(release): bump version to v5.1.43\n* feat(core): harden browser bridge, addons hub resilience, and player fast-fail watchdog [subagent:orchestrator]\n* chore(release): bump version to v5.1.42"
 }
