@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.51",
-    "name":  "Tayflix v5.1.51",
+    "version":  "5.1.52",
+    "name":  "Tayflix v5.1.52",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.51/TayflixSetup-v5.1.51_x64.exe",
-    "filename":  "TayflixSetup-v5.1.51_x64.exe",
-    "checksum":  "82c28439424e6d7a2dfa0fa8b85fbba3d6932226308200574128d7a9c91b9433",
-    "notes":  "* feat: Add Dizilla addon with static manifest and integrate into the application\n* chore(release): bump version to v5.1.50\n* feat: Initialize Dizilla Stremio Addon with core server functionality and testing suite\n* chore(release): bump version to v5.1.49\n* feat: integrate shared cache for slug-to-IMDb mapping and enhance stream fetching logic"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.52/TayflixSetup-v5.1.52_x64.exe",
+    "filename":  "TayflixSetup-v5.1.52_x64.exe",
+    "checksum":  "94233fef72e9acea878de57b6c6a200f10a4593354478ad794de86be51eb4981",
+    "notes":  "* feat: Enhance Dizilla integration in DiziPal scraper and update Board component by removing Netflix and Disney sections\n* chore(release): bump version to v5.1.51\n* feat: Add Dizilla addon with static manifest and integrate into the application\n* chore(release): bump version to v5.1.50\n* feat: Initialize Dizilla Stremio Addon with core server functionality and testing suite"
 }
