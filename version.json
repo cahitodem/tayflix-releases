@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.52",
-    "name":  "Tayflix v5.1.52",
+    "version":  "5.1.53",
+    "name":  "Tayflix v5.1.53",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.52/TayflixSetup-v5.1.52_x64.exe",
-    "filename":  "TayflixSetup-v5.1.52_x64.exe",
-    "checksum":  "94233fef72e9acea878de57b6c6a200f10a4593354478ad794de86be51eb4981",
-    "notes":  "* feat: Enhance Dizilla integration in DiziPal scraper and update Board component by removing Netflix and Disney sections\n* chore(release): bump version to v5.1.51\n* feat: Add Dizilla addon with static manifest and integrate into the application\n* chore(release): bump version to v5.1.50\n* feat: Initialize Dizilla Stremio Addon with core server functionality and testing suite"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.53/TayflixSetup-v5.1.53_x64.exe",
+    "filename":  "TayflixSetup-v5.1.53_x64.exe",
+    "checksum":  "1891e0488b70f988bcfcf5903455abefc576933c87efbaccc20664878a67e3de",
+    "notes":  "* feat: Implement fallback sources for 403 errors in stream proxy\n* Add initial id_resolver_cache.json for The White Lotus\n* feat: Remove info banner and stream subtitle from SourcesMenu component\n* chore(release): bump version to v5.1.52\n* feat: Enhance Dizilla integration in DiziPal scraper and update Board component by removing Netflix and Disney sections"
 }
