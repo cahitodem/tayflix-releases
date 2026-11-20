@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.49",
-    "name":  "Tayflix v5.1.49",
+    "version":  "5.1.50",
+    "name":  "Tayflix v5.1.50",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.49/TayflixSetup-v5.1.49_x64.exe",
-    "filename":  "TayflixSetup-v5.1.49_x64.exe",
-    "checksum":  "c53f63033483018d18dfb94b9f4042df3528b3c855f604db32f2bfc8c0270d53",
-    "notes":  "* feat: integrate shared cache for slug-to-IMDb mapping and enhance stream fetching logic\n* chore(release): bump version to v5.1.48\n* feat: enhance DiziPal addon with improved genre options, pagination, and trailer search functionality\n* feat: update genre handling and pagination for Diziyou and Seflix addons\n* feat: update Diziyou addon to version 1.1.1 with new CDN links and poster handling improvements"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.50/TayflixSetup-v5.1.50_x64.exe",
+    "filename":  "TayflixSetup-v5.1.50_x64.exe",
+    "checksum":  "dc321a743a69040e85c6fd69ae149500c6351470f2c94d4cb8bd69b19992dfc1",
+    "notes":  "* feat: Initialize Dizilla Stremio Addon with core server functionality and testing suite\n* chore(release): bump version to v5.1.49\n* feat: integrate shared cache for slug-to-IMDb mapping and enhance stream fetching logic\n* chore(release): bump version to v5.1.48\n* feat: enhance DiziPal addon with improved genre options, pagination, and trailer search functionality"
 }
