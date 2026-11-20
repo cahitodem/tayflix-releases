@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.46",
-    "name":  "Tayflix v5.1.46",
+    "version":  "5.1.47",
+    "name":  "Tayflix v5.1.47",
     "releaseDate":  "2026-11-20",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.46/TayflixSetup-v5.1.46_x64.exe",
-    "filename":  "TayflixSetup-v5.1.46_x64.exe",
-    "checksum":  "71a1fe163f32ade54ff8a890982b488722b29f68f417295bc6893a8487ac6c85",
-    "notes":  "* feat: add stremio-sezonlukdizi-addon with initial implementation\n* chore(release): bump version to v5.1.45\n* feat: Implement HLS Stream Proxy with Prefetching and Caching\n* chore(release): bump version to v5.1.44\n* feat(inspect): add HTML inspection for secureData and player sources"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.47/TayflixSetup-v5.1.47_x64.exe",
+    "filename":  "TayflixSetup-v5.1.47_x64.exe",
+    "checksum":  "287a993df0a309e235c8da8658131c2cc5e673a62481738c5a011b526561ad59",
+    "notes":  "* refactor: remove deprecated addons and update addon references across the application\n* chore(release): bump version to v5.1.46\n* feat: add stremio-sezonlukdizi-addon with initial implementation\n* chore(release): bump version to v5.1.45\n* feat: Implement HLS Stream Proxy with Prefetching and Caching"
 }
