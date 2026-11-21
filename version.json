@@ -1,9 +1,9 @@
 {
-    "version":  "5.1.60",
-    "name":  "Tayflix v5.1.60",
+    "version":  "5.1.61",
+    "name":  "Tayflix v5.1.61",
     "releaseDate":  "2026-11-21",
-    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.60/TayflixSetup-v5.1.60_x64.exe",
-    "filename":  "TayflixSetup-v5.1.60_x64.exe",
-    "checksum":  "b163ef931c67fd94923b75bafa680dc41f640be59d26591732bef865b05ec049",
-    "notes":  "* Add comprehensive adversarial and audit verification test suites\n* chore(release): bump version to v5.1.59\n* feat: implement Pichive NP_GATE proof-of-work resolver and enhance playlist fetching with curl support\n* chore(release): bump version to v5.1.58\n* feat: enhance browser interaction and add stream capture functionality"
+    "url":  "https://github.com/cahitodem/tayflix-releases/releases/download/v5.1.61/TayflixSetup-v5.1.61_x64.exe",
+    "filename":  "TayflixSetup-v5.1.61_x64.exe",
+    "checksum":  "70a50b360a6e6b08f2d99a00c8a622216466a980df5abdac60292dd0c4ac1318",
+    "notes":  "* Refactor code structure for improved readability and maintainability\n* chore(release): bump version to v5.1.60\n* Add comprehensive adversarial and audit verification test suites\n* chore(release): bump version to v5.1.59\n* feat: implement Pichive NP_GATE proof-of-work resolver and enhance playlist fetching with curl support"
 }
